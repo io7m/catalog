@@ -19,7 +19,7 @@
     <c:Meta Name="site">https://www.github.com/ThePalaceProject/audiobook-android</c:Meta>
     <dc:date>2018-07-16Z</dc:date>
   </c:Work>
-  <c:Work ID="c3c6f617-f1f1-3160-942d-4959924f21cc" Name="r2">
+  <c:Work ID="a409e54f-af24-4bd5-97c4-473d9acac8b4" Name="android-r2">
     <c:GroupAssignment Name="org.thepalaceproject"/>
     <dc:title>r2</dc:title>
     <dc:description>A replacement navigator for Readium 2.</dc:description>
