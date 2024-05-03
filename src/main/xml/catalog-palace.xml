@@ -10,22 +10,40 @@
     <c:Meta Name="site">https://www.github.com/ThePalaceProject/android-core</c:Meta>
     <dc:date>2015-02-03Z</dc:date>
   </c:Work>
-  <c:Work ID="c3c6f617-f1f1-3160-942d-4959924f21cc" Name="audiobook-android">
+  <c:Work ID="c3c6f617-f1f1-3160-942d-4959924f21cc" Name="palace-audiobook-android">
     <c:GroupAssignment Name="org.thepalaceproject"/>
-    <dc:title>audiobook-android</dc:title>
+    <dc:title>palace-audiobook-android</dc:title>
     <dc:description>The Palace audiobook player API.</dc:description>
     <dc:rights>Apache 2.0 License</dc:rights>
     <dc:type>Software</dc:type>
     <c:Meta Name="site">https://www.github.com/ThePalaceProject/audiobook-android</c:Meta>
     <dc:date>2018-07-16Z</dc:date>
   </c:Work>
-  <c:Work ID="a409e54f-af24-4bd5-97c4-473d9acac8b4" Name="android-r2">
+  <c:Work ID="a409e54f-af24-4bd5-97c4-473d9acac8b4" Name="palace-r2">
     <c:GroupAssignment Name="org.thepalaceproject"/>
-    <dc:title>r2</dc:title>
+    <dc:title>palace-r2</dc:title>
     <dc:description>A replacement navigator for Readium 2.</dc:description>
     <dc:rights>Apache 2.0 License</dc:rights>
     <dc:type>Software</dc:type>
     <c:Meta Name="site">https://www.github.com/ThePalaceProject/android-r2</c:Meta>
     <dc:date>2020-01-21Z</dc:date>
+  </c:Work>
+  <c:Work ID="2a2e3a4a-4d12-4edb-ac51-d935422d4b79" Name="palace-http">
+    <c:GroupAssignment Name="org.thepalaceproject"/>
+    <dc:title>palace-http</dc:title>
+    <dc:description>The opinionated Palace HTTP client.</dc:description>
+    <dc:rights>Apache 2.0 License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.github.com/ThePalaceProject/android-http</c:Meta>
+    <dc:date>2020-04-30Z</dc:date>
+  </c:Work>
+  <c:Work ID="18983082-999b-4172-8d5a-5646cc05f209" Name="palace-ci">
+    <c:GroupAssignment Name="org.thepalaceproject"/>
+    <dc:title>palace-ci</dc:title>
+    <dc:description>The Palace continuous integration scripts.</dc:description>
+    <dc:rights>Apache 2.0 License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.github.com/ThePalaceProject/android-ci</c:Meta>
+    <dc:date>2020-11-16Z</dc:date>
   </c:Work>
 </c:Works>
