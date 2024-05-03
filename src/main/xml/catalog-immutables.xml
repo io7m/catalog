@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c:Works xmlns:c="urn:com.io7m.catalog:1" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <c:Work ID="545bfa48-1bde-3168-9206-5254c926a60a" Name="immutables-vavr">
+    <c:GroupAssignment Name="org.immutables"/>
+    <dc:title>immutables-vavr</dc:title>
+    <dc:description>A set of Immutables encodings for Vavr.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/immutables/immutables-vavr</c:Meta>
+    <dc:date>2016-12-01Z</dc:date>
+  </c:Work>
+</c:Works>

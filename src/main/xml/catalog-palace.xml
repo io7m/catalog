@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c:Works xmlns:c="urn:com.io7m.catalog:1" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <c:Work ID="667940ea-3df6-3171-a8ce-f1233b76dc29" Name="palace">
+    <c:GroupAssignment Name="org.thepalaceproject"/>
+    <dc:title>palace</dc:title>
+    <dc:description>The Android client for The Palace Project.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.github.com/ThePalaceProject/android-core</c:Meta>
+    <dc:date>2015-02-03</dc:date>
+  </c:Work>
+  <c:Work ID="c3c6f617-f1f1-3160-942d-4959924f21cc" Name="audiobook-android">
+    <c:GroupAssignment Name="org.thepalaceproject"/>
+    <dc:title>audiobook-android</dc:title>
+    <dc:description>The Palace audiobook player API.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.github.com/ThePalaceProject/audiobook-android</c:Meta>
+    <dc:date>2018-07-16</dc:date>
+  </c:Work>
+</c:Works>

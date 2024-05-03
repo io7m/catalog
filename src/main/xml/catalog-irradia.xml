@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c:Works xmlns:c="urn:com.io7m.catalog:1" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <c:Work ID="dce1417f-effb-3447-b169-ed691fc77cd4" Name="fieldrush">
+    <c:GroupAssignment Name="one.irradia"/>
+    <dc:title>fieldrush</dc:title>
+    <dc:description>High-performance, low-allocation, type-safe, recovering stream JSON parser.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/irradia/one.irradia.fieldrush</c:Meta>
+    <dc:date>2019-03-30Z</dc:date>
+  </c:Work>
+  <c:Work ID="80791b3a-e700-3cb8-8c24-6876d9faa8f8" Name="http">
+    <c:GroupAssignment Name="one.irradia"/>
+    <dc:title>http</dc:title>
+    <dc:description>Tiny HTTP interface.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/irradia/one.irradia.http</c:Meta>
+    <dc:date>2019-04-14Z</dc:date>
+  </c:Work>
+  <c:Work ID="d02a169f-3346-3c88-8396-a24dd9d9f1c6" Name="mime">
+    <c:GroupAssignment Name="one.irradia"/>
+    <dc:title>mime</dc:title>
+    <dc:description>RFC2045 MIME type parsing.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/irradia/one.irradia.mime</c:Meta>
+    <dc:date>2019-03-22Z</dc:date>
+  </c:Work>
+  <c:Work ID="c9d0bff6-35ff-338e-84a8-1231838eb43b" Name="opds1_2">
+    <c:GroupAssignment Name="one.irradia"/>
+    <dc:title>opds1_2</dc:title>
+    <dc:description>OPDS 1.2 parser.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/irradia/one.irradia.opds1_2</c:Meta>
+    <dc:date>2019-03-22Z</dc:date>
+  </c:Work>
+  <c:Work ID="07b0448e-413d-345c-8af8-661e105359be" Name="opds2_0">
+    <c:GroupAssignment Name="one.irradia"/>
+    <dc:title>opds2_0</dc:title>
+    <dc:description>OPDS 2.0 parser.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/irradia/one.irradia.opds2_0</c:Meta>
+    <dc:date>2019-03-30Z</dc:date>
+  </c:Work>
+  <c:Work ID="4a667cd8-ef1d-3c94-9ebc-e52c4b76bcbf" Name="servicedirectory">
+    <c:GroupAssignment Name="one.irradia"/>
+    <dc:title>servicedirectory</dc:title>
+    <dc:description>Android-oriented lazy application service directory.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/irradia/one.irradia.servicedirectory</c:Meta>
+    <dc:date>2019-04-20Z</dc:date>
+  </c:Work>
+  <c:Work ID="a7f138aa-0ee8-39b7-982f-49ada1bd22bf" Name="datepicker">
+    <c:GroupAssignment Name="one.irradia"/>
+    <dc:title>datepicker</dc:title>
+    <dc:description>Minimalist Android date picker.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/irradia/one.irradia.datepicker</c:Meta>
+    <dc:date>2020-07-17Z</dc:date>
+  </c:Work>
+</c:Works>

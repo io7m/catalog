@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c:Works xmlns:c="urn:com.io7m.catalog:1" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <c:Work ID="788c1a69-3867-32a6-b5e3-d964f01cd170"
+          Name="openjdk-api-java-client">
+    <c:GroupAssignment Name="org.adoptopenjdk"/>
+    <dc:title>openjdk-api-java-client</dc:title>
+    <dc:description>Java client for the AdoptOpenJDK API.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/AdoptOpenJDK/openjdk-api-java-client</c:Meta>
+    <dc:date>2018-03-05Z</dc:date>
+  </c:Work>
+</c:Works>

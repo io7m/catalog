@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c:Works xmlns:c="urn:com.io7m.catalog:1" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <c:Work ID="b45f74f3-c892-327e-bab4-f0f89878360c" Name="lwjgl3-osgi">
+    <c:GroupAssignment Name="org.lwjgl"/>
+    <dc:title>lwjgl3-osgi</dc:title>
+    <dc:description>LWJGL OSGi packages.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/LWJGL/lwjgl3-osgi</c:Meta>
+    <dc:date>2017-02-21Z</dc:date>
+  </c:Work>
+</c:Works>

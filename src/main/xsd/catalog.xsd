@@ -10,6 +10,16 @@
   <xsd:import namespace="http://www.w3.org/XML/1998/namespace"
               schemaLocation="xml.xsd"/>
 
+  <xsd:attributeGroup name="standardXMLAttributes">
+    <xsd:annotation>
+      <xsd:documentation xml:lang="en">
+        The standard elements expected to appear in XML texts.
+      </xsd:documentation>
+    </xsd:annotation>
+    <xsd:attribute ref="xml:base"/>
+    <xsd:attribute ref="xml:lang"/>
+  </xsd:attributeGroup>
+
   <xsd:simpleType name="SimpleNameType">
     <xsd:annotation>
       <xsd:documentation xml:lang="en">
@@ -89,6 +99,8 @@
         </xsd:sequence>
       </xsd:sequence>
 
+      <xsd:attributeGroup ref="c:standardXMLAttributes"/>
+
       <xsd:attribute type="c:UUIDType"
                      use="required"
                      name="ID">
@@ -136,6 +148,8 @@
                     maxOccurs="unbounded">
         <xsd:element ref="c:Group"/>
       </xsd:sequence>
+
+      <xsd:attributeGroup ref="c:standardXMLAttributes"/>
     </xsd:complexType>
   </xsd:element>
 
@@ -143,8 +157,13 @@
     <xsd:complexType>
       <xsd:sequence minOccurs="0"
                     maxOccurs="unbounded">
-        <xsd:element ref="c:Work"/>
+        <xsd:choice>
+          <xsd:element ref="c:Work"/>
+          <xsd:element ref="c:Works"/>
+        </xsd:choice>
       </xsd:sequence>
+
+      <xsd:attributeGroup ref="c:standardXMLAttributes"/>
     </xsd:complexType>
   </xsd:element>
 
@@ -162,18 +181,18 @@
     </xsd:key>
 
     <xsd:key name="WorkID">
-      <xsd:selector xpath="c:Works/c:Work"/>
+      <xsd:selector xpath="c:Works/*/c:Work"/>
       <xsd:field xpath="@ID"/>
     </xsd:key>
 
     <xsd:key name="WorkName">
-      <xsd:selector xpath="c:Works/c:Work"/>
+      <xsd:selector xpath="c:Works/*/c:Work"/>
       <xsd:field xpath="@Name"/>
     </xsd:key>
 
     <xsd:keyref name="WorkGroupReference"
                 refer="c:GroupName">
-      <xsd:selector xpath="c:Works/c:Work/c:GroupAssignment"/>
+      <xsd:selector xpath="c:Works/*/c:Work/c:GroupAssignment"/>
       <xsd:field xpath="@Name"/>
     </xsd:keyref>
   </xsd:element>

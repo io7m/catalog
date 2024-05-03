@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c:Works xmlns:c="urn:com.io7m.catalog:1" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <c:Work ID="ec9be817-d841-4858-80d1-abbd10e8cc2e"
+          Name="repomaker">
+    <c:GroupAssignment Name="org.libraryforall"/>
+    <dc:title>repomaker</dc:title>
+    <dc:description>A lightweight repository generator for the LFA Updater.</dc:description>
+    <dc:rights>Apache 2.0 License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="scm_source">https://github.com/AULFA/repomaker</c:Meta>
+    <dc:date>2019-06-15Z</dc:date>
+  </c:Work>
+  <c:Work ID="f500a714-b468-4776-82e3-afec9604a370"
+          Name="updater">
+    <c:GroupAssignment Name="org.libraryforall"/>
+    <dc:title>updater</dc:title>
+    <dc:description>Application to download and install LFA applications.</dc:description>
+    <dc:rights>Apache 2.0 License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="scm_source">https://github.com/AULFA/updater</c:Meta>
+    <dc:date>2019-05-27Z</dc:date>
+  </c:Work>
+  <c:Work ID="fa4be5eb-2521-421d-be08-85a1f4b382e3"
+          Name="lfa-android">
+    <c:GroupAssignment Name="org.libraryforall"/>
+    <dc:title>lfa-android</dc:title>
+    <dc:description>LFA fork of SimplyE.</dc:description>
+    <dc:rights>Apache 2.0 License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="scm_source">https://github.com/AULFA/LFA-Android</c:Meta>
+    <dc:date>2019-12-05Z</dc:date>
+  </c:Work>
+  <c:Work ID="5396f6ca-0b59-387b-b279-19fc939d17a6" Name="opdsget">
+    <c:GroupAssignment Name="org.libraryforall"/>
+    <dc:title>opdsget</dc:title>
+    <dc:description>OPDS feed retrieval tool.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/AULFA/opdsget</c:Meta>
+    <dc:date>2018-02-27Z</dc:date>
+  </c:Work>
+  <c:Work ID="1024cefa-6dc1-3710-93cb-c6bcd4e54744" Name="lfa-launcher">
+    <c:GroupAssignment Name="org.libraryforall"/>
+    <dc:title>lfa-launcher</dc:title>
+    <dc:description>LFA Android launcher application.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/AULFA/launcher</c:Meta>
+    <dc:date>2019-05-23Z</dc:date>
+  </c:Work>
+  <c:Work ID="2fe34a07-9c06-3381-8ed6-85a1b89093fd" Name="epubsquash">
+    <c:GroupAssignment Name="org.libraryforall"/>
+    <dc:title>epubsquash</dc:title>
+    <dc:description>Java EPUB size reduction API and tools.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://github.com/AULFA/epubsquash</c:Meta>
+    <dc:date>2019-03-06Z</dc:date>
+  </c:Work>
+</c:Works>
