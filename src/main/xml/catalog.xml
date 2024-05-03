@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:Catalog xmlns:c="urn:com.io7m.catalog:1" xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <c:Groups>
+      <c:Group Name="com.io7m.core">
+      Core, actively maintained io7m projects.
+    </c:Group>
+      <c:Group Name="com.io7m.eol">
+      End-of-life io7m projects.
+    </c:Group>
+      <c:Group Name="one.irradia">
+      Irradia projects.
+    </c:Group>
+      <c:Group Name="org.libraryforall">
+      Library For All projects.
+    </c:Group>
+      <c:Group Name="org.immutables">
+      Immutables.org projects.
+    </c:Group>
+      <c:Group Name="org.lwjgl">
+      LWJGL projects.
+    </c:Group>
+      <c:Group Name="org.adoptopenjdk">
+      AdoptOpenJDK projects.
+    </c:Group>
+      <c:Group Name="org.thepalaceproject">
+      The Palace Project projects.
+    </c:Group>
+   </c:Groups>
+   <c:Works>
+      <c:Work ID="285c29bb-915f-3cfd-aec2-a0720688ce8d" Name="abstand">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>abstand</dc:title>
+         <dc:description>Interval trees.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/abstand/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/abstand</c:Meta>
+         <dc:date>2024-02-27Z</dc:date>
+      </c:Work>
+      <c:Work ID="45aab84a-5f47-37d8-a583-0007fd522f41" Name="anethum">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>anethum</dc:title>
+         <dc:description>Generic parser API specification.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/anethum/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/anethum</c:Meta>
+         <dc:date>2021-03-28Z</dc:date>
+      </c:Work>
+      <c:Work ID="0e63e189-253c-345a-8379-63cbb3bd0df4" Name="aradine">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>aradine</dc:title>
+         <dc:description>Modular programmable synthesis.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.github.com/io7m/aradine/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/aradine</c:Meta>
+         <dc:date>2021-04-03Z</dc:date>
+      </c:Work>
+      <c:Work ID="c3c6f617-f1f1-3160-942d-4959924f21cc" Name="audiobook-android">
+         <c:GroupAssignment Name="org.thepalaceproject"/>
+         <dc:title>audiobook-android</dc:title>
+         <dc:description>The Palace audiobook player API.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.github.com/ThePalaceProject/audiobook-android</c:Meta>
+      </c:Work>
+      <c:Work ID="4440b069-8624-3c53-af55-820a50ce32e1" Name="aurantium">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>aurantium</dc:title>
+         <dc:description>Aurantium audio sample map format.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/aurantium/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/aurantium</c:Meta>
+         <dc:date>2023-03-26Z</dc:date>
+      </c:Work>
+      <c:Work ID="cd3fe884-66d8-3b68-8364-6ec99fb9e801" Name="bishopsgate">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>bishopsgate</dc:title>
+         <dc:description>JMS → Matrix relay.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/bishopsgate/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/bishopsgate</c:Meta>
+         <dc:date>2021-05-30Z</dc:date>
+      </c:Work>
+      <c:Work ID="5cc2e351-afd2-3824-827c-7ec976a334dc" Name="blackthorne">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>blackthorne</dc:title>
+         <dc:description>Functional streaming XML data extraction.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/blackthorne/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/blackthorne</c:Meta>
+         <dc:date>2019-10-05Z</dc:date>
+      </c:Work>
+      <c:Work ID="8bea7325-cb48-3141-9606-3a1f74cf18a4" Name="blueberry">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>blueberry</dc:title>
+         <dc:description>End-user automated junit test runner.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/blueberry</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/blueberry</c:Meta>
+         <dc:date>2013-05-04Z</dc:date>
+      </c:Work>
+      <c:Work ID="e5501782-21e2-33df-9831-ba478b29794e" Name="bodyrecomp">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>bodyrecomp</dc:title>
+         <dc:description>Body recomposition tools.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/bodyrecomp/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/bodyrecomp</c:Meta>
+         <dc:date>2020-07-18Z</dc:date>
+      </c:Work>
+      <c:Work ID="b99acc04-a115-3153-8e7e-fe577a75381c" Name="boxwood">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>boxwood</dc:title>
+         <dc:description>EPUB parser.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/boxwood/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/boxwood</c:Meta>
+         <dc:date>2020-04-20Z</dc:date>
+      </c:Work>
+      <c:Work ID="f201e928-b4ac-33be-8ee2-085e96844d9e" Name="brooklime">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>brooklime</dc:title>
+         <dc:description>Nexus Pro staging repository API and command-line tool.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/brooklime/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/brooklime</c:Meta>
+         <dc:date>2020-05-02Z</dc:date>
+      </c:Work>
+      <c:Work ID="86b0fe50-32a5-3061-9d08-21db6db76f40" Name="calino">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>calino</dc:title>
+         <dc:description>Strongly-specified 3D texture file format.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/calino/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/calino</c:Meta>
+         <dc:date>2022-01-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="49698429-b405-3c32-863f-af30eaaaf3ac" Name="canonmill">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>canonmill</dc:title>
+         <dc:description>Directory-based Java Keystore.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/canonmill/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/canonmill</c:Meta>
+         <dc:date>2022-07-08Z</dc:date>
+      </c:Work>
+      <c:Work ID="07d6fd90-98aa-39da-b1da-f8c5776f64e3" Name="cantoria">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>cantoria</dc:title>
+         <dc:description>Java 9+ API analysis tool.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/cantoria</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/cantoria</c:Meta>
+         <dc:date>2017-10-30Z</dc:date>
+      </c:Work>
+      <c:Work ID="623ca459-a00a-33e3-8a53-aebc32648c8c" Name="cardant">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>cardant</dc:title>
+         <dc:description>Inventory server.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/cardant/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/cardant</c:Meta>
+         <dc:date>2021-08-02Z</dc:date>
+      </c:Work>
+      <c:Work ID="08c0c9a3-905b-358c-ad63-3e25353609fc" Name="cedarbridge">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>cedarbridge</dc:title>
+         <dc:description>Generic, strongly-typed, versioned message protocol compiler.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/cedarbridge/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/cedarbridge</c:Meta>
+         <dc:date>2020-11-27Z</dc:date>
+      </c:Work>
+      <c:Work ID="2b14dfde-81c8-3b9b-a4a7-1848adfbb1de" Name="certusine">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>certusine</dc:title>
+         <dc:description>ACME client.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/certusine/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/certusine</c:Meta>
+         <dc:date>2022-06-25Z</dc:date>
+      </c:Work>
+      <c:Work ID="6b306396-aa9f-3bc5-a049-2611d41dd56f" Name="changelog">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>changelog</dc:title>
+         <dc:description>Software changelogs.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/changelog/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/changelog</c:Meta>
+         <dc:date>2012-03-14Z</dc:date>
+      </c:Work>
+      <c:Work ID="5dd42edf-57d3-38b6-8374-c8df82a1c53a" Name="checkstyle_rules">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>checkstyle_rules</dc:title>
+         <dc:description>Common Checkstyle rules for io7m projects.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/checkstyle_rules/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/checkstyle_rules</c:Meta>
+         <dc:date>2018-02-07Z</dc:date>
+      </c:Work>
+      <c:Work ID="545a9da6-2fd9-3c50-a44a-e80f4b73b4c4" Name="chione">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>chione</dc:title>
+         <dc:description>Opinionated builds of Apache Artemis for small-scale deployments.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.github.com/io7m/chione/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/chione</c:Meta>
+         <dc:date>2023-02-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="5b2333bc-abd9-39a9-8da1-71a02a51f14a" Name="claypot">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>claypot</dc:title>
+         <dc:description>JCommander conventions for io7m projects.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/claypot/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/claypot</c:Meta>
+         <dc:date>2020-06-26Z</dc:date>
+      </c:Work>
+      <c:Work ID="2e62344e-83de-30ee-b1f6-46514f922396" Name="coffeepick">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>coffeepick</dc:title>
+         <dc:description>Java runtime retrieval API and shell.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/coffeepick/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/coffeepick</c:Meta>
+         <dc:date>2018-11-10Z</dc:date>
+      </c:Work>
+      <c:Work ID="0e65c6e9-733b-3524-ad93-e32d8a350ece" Name="coffeepick-gui">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>coffeepick-gui</dc:title>
+         <dc:description>CoffeePick GUI.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/coffeepick-gui/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/coffeepick-gui</c:Meta>
+         <dc:date>2020-04-11Z</dc:date>
+      </c:Work>
+      <c:Work ID="9728d085-1ee3-3d30-a7fe-fa4bd2b92b8e" Name="cxbutton">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>cxbutton</dc:title>
+         <dc:description>Customizable embossed CSS buttons.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/cxbutton/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/cxbutton</c:Meta>
+         <dc:date>2022-10-02Z</dc:date>
+      </c:Work>
+      <c:Work ID="a7f138aa-0ee8-39b7-982f-49ada1bd22bf" Name="datepicker">
+         <c:GroupAssignment Name="one.irradia"/>
+         <dc:title>datepicker</dc:title>
+         <dc:description>Minimalist Android date picker.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/irradia/one.irradia.datepicker</c:Meta>
+      </c:Work>
+      <c:Work ID="b6ec4030-7d48-3310-9a02-5dee4fa04115" Name="digal">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>digal</dc:title>
+         <dc:description>Java FX rotary dials.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/digal/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/digal</c:Meta>
+         <dc:date>2022-12-22Z</dc:date>
+      </c:Work>
+      <c:Work ID="0e05160f-945c-397c-9745-f8b001bc9bc5" Name="dixmont">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>dixmont</dc:title>
+         <dc:description>Dixmont Jackson extensions.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/dixmont/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/dixmont</c:Meta>
+         <dc:date>2021-08-04Z</dc:date>
+      </c:Work>
+      <c:Work ID="2fe34a07-9c06-3381-8ed6-85a1b89093fd" Name="epubsquash">
+         <c:GroupAssignment Name="org.libraryforall"/>
+         <dc:title>epubsquash</dc:title>
+         <dc:description>Java EPUB size reduction API and tools.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/AULFA/epubsquash</c:Meta>
+      </c:Work>
+      <c:Work ID="ba9c0733-a5d0-3652-9462-a1b596a70f54" Name="ervilla">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>ervilla</dc:title>
+         <dc:description>JUnit 5 Podman container creation.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/ervilla/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/ervilla</c:Meta>
+         <dc:date>2023-06-26Z</dc:date>
+      </c:Work>
+      <c:Work ID="5e791603-14ce-3d1b-8f04-a6f13a03d724" Name="ethermaker">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>ethermaker</dc:title>
+         <dc:description>Ethernet MAC address generator.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/ethermaker/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/ethermaker</c:Meta>
+         <dc:date>2020-07-27Z</dc:date>
+      </c:Work>
+      <c:Work ID="dce1417f-effb-3447-b169-ed691fc77cd4" Name="fieldrush">
+         <c:GroupAssignment Name="one.irradia"/>
+         <dc:title>fieldrush</dc:title>
+         <dc:description>High-performance, low-allocation, type-safe, recovering stream JSON parser.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/irradia/one.irradia.fieldrush</c:Meta>
+      </c:Work>
+      <c:Work ID="a0964006-8128-3290-8db9-61023f3418ff" Name="flail">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>flail</dc:title>
+         <dc:description>DNS server stress testing tool.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/flail/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/flail</c:Meta>
+         <dc:date>2018-05-25Z</dc:date>
+      </c:Work>
+      <c:Work ID="5074b115-04c4-38c0-917c-7bf27c7a729c" Name="ftgr">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>ftgr</dc:title>
+         <dc:description>Fossil → Git replayer.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/ftgr</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/ftgr</c:Meta>
+         <dc:date>2015-07-26Z</dc:date>
+      </c:Work>
+      <c:Work ID="f49333ec-a394-3205-9064-23ee10842999" Name="gatwick">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>gatwick</dc:title>
+         <dc:description>BOSS GT-1000 controller.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/gatwick/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/gatwick</c:Meta>
+         <dc:date>2022-12-16Z</dc:date>
+      </c:Work>
+      <c:Work ID="9f57345e-50e8-3cbb-a87a-09fc2a026e28" Name="genevan">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>genevan</dc:title>
+         <dc:description>Generic protocol negotiation algorithm.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/genevan/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/genevan</c:Meta>
+         <dc:date>2022-08-13Z</dc:date>
+      </c:Work>
+      <c:Work ID="11b8887e-e37b-32da-b072-71b27fae52c3" Name="gtyrell">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>gtyrell</dc:title>
+         <dc:description>Git repository mirroring tool.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/gtyrell/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/gtyrell</c:Meta>
+         <dc:date>2015-08-02Z</dc:date>
+      </c:Work>
+      <c:Work ID="49c118cf-96e9-3755-8d5c-d7f7ee23db06" Name="halite">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>halite</dc:title>
+         <dc:description>Maven plugin to accumulate dependencies and artifacts.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/halite/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/halite</c:Meta>
+         <dc:date>2018-10-26Z</dc:date>
+      </c:Work>
+      <c:Work ID="ec07d733-adee-3ee4-ba55-73f257db6005" Name="hibiscus">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>hibiscus</dc:title>
+         <dc:description>RPC Client API Specification.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/hibiscus</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/hibiscus</c:Meta>
+         <dc:date>2023-04-16Z</dc:date>
+      </c:Work>
+      <c:Work ID="80791b3a-e700-3cb8-8c24-6876d9faa8f8" Name="http">
+         <c:GroupAssignment Name="one.irradia"/>
+         <dc:title>http</dc:title>
+         <dc:description>Tiny HTTP interface.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/irradia/one.irradia.http</c:Meta>
+      </c:Work>
+      <c:Work ID="cea3bb8e-2d7e-3057-a40f-8430d78288f6" Name="idstore">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>idstore</dc:title>
+         <dc:description>Identity server.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/idstore/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/idstore</c:Meta>
+         <dc:date>2022-08-16Z</dc:date>
+      </c:Work>
+      <c:Work ID="547bd809-c2f8-39d4-aa2a-c3dc8eae3d9d" Name="idstore_gui">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>idstore_gui</dc:title>
+         <dc:description>GUI for idstore.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/idstore/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/idstore_gui</c:Meta>
+         <dc:date>2023-05-04Z</dc:date>
+      </c:Work>
+      <c:Work ID="9184346f-b8b1-35e2-b814-887180fe2ec4" Name="idstore_trafficgen">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>idstore_trafficgen</dc:title>
+         <dc:description>Traffic generator for idstore.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/idstore/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/idstore_trafficgen</c:Meta>
+         <dc:date>2023-06-07Z</dc:date>
+      </c:Work>
+      <c:Work ID="fec53818-4206-371b-9736-4cbf27f585be" Name="ieee754b16">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>ieee754b16</dc:title>
+         <dc:description>Functions for converting to/from IEEE754 binary16 values.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/ieee754b16/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/ieee754b16</c:Meta>
+         <dc:date>2013-10-28Z</dc:date>
+      </c:Work>
+      <c:Work ID="545bfa48-1bde-3168-9206-5254c926a60a" Name="immutables-vavr">
+         <c:GroupAssignment Name="org.immutables"/>
+         <dc:title>immutables-vavr</dc:title>
+         <dc:description>A set of Immutables encodings for Vavr.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/immutables/immutables-vavr</c:Meta>
+      </c:Work>
+      <c:Work ID="69f06933-819e-30cc-b03d-6a7767d91716" Name="jaccord">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jaccord</dc:title>
+         <dc:description>Java library to assist with musical analysis.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jaccord</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jaccord</c:Meta>
+         <dc:date>2017-09-23Z</dc:date>
+      </c:Work>
+      <c:Work ID="bf17e568-257e-34f3-aa11-28167e882312" Name="jade">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jade</dc:title>
+         <dc:description>Java application directory etiquette.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jade/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jade</c:Meta>
+         <dc:date>2020-03-22Z</dc:date>
+      </c:Work>
+      <c:Work ID="55c64e74-c4d1-3bc6-aff3-cdc88879f644" Name="jaffirm">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jaffirm</dc:title>
+         <dc:description>Simple and fast contract checking.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jaffirm/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jaffirm</c:Meta>
+         <dc:date>2016-08-06Z</dc:date>
+      </c:Work>
+      <c:Work ID="28260f41-9d56-3728-b1b4-3b97fb0c3518" Name="jarabica">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jarabica</dc:title>
+         <dc:description>Type-safe OpenAL wrapper.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jarabica/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jarabica</c:Meta>
+         <dc:date>2022-02-02Z</dc:date>
+      </c:Work>
+      <c:Work ID="bda8726a-3527-3e25-b504-c5ac211fdffe" Name="jareas">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jareas</dc:title>
+         <dc:description>Area types.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jareas/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jareas</c:Meta>
+         <dc:date>2015-11-28Z</dc:date>
+      </c:Work>
+      <c:Work ID="2420995d-36cf-3f1a-acd4-46b2bd4d674c" Name="jattribute">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jattribute</dc:title>
+         <dc:description>Observable, functional, mutable variables.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jattribute/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jattribute</c:Meta>
+         <dc:date>2022-02-06Z</dc:date>
+      </c:Work>
+      <c:Work ID="ca3c9d09-f88e-3079-9c22-a2b535463d36" Name="jaux">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jaux</dc:title>
+         <dc:description>Auxiliary library.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jaux</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jaux</c:Meta>
+         <dc:date>2012-03-14Z</dc:date>
+      </c:Work>
+      <c:Work ID="a802278c-1ba1-3271-ae35-ba7b41e7762e" Name="jboxes">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jboxes</dc:title>
+         <dc:description>Box types.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jboxes</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jboxes</c:Meta>
+         <dc:date>2016-07-28Z</dc:date>
+      </c:Work>
+      <c:Work ID="93517182-deb4-3cd2-93a6-3c01455d7af9" Name="jbssio">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jbssio</dc:title>
+         <dc:description>Java bytestream structural I/O.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jbssio/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jbssio</c:Meta>
+         <dc:date>2019-07-13Z</dc:date>
+      </c:Work>
+      <c:Work ID="86544877-0e18-347f-91d4-b996f633c0ec" Name="jcache">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jcache</dc:title>
+         <dc:description>Generic cache algorithms.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jcache</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jcache</c:Meta>
+         <dc:date>2012-08-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="dd49d394-4996-3749-aab7-0eb914f4ff21" Name="jcage">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jcage</dc:title>
+         <dc:description>Run-time configurable JVM sandboxing.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://io7m.github.io/jcage</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jcage</c:Meta>
+         <dc:date>2014-07-17Z</dc:date>
+      </c:Work>
+      <c:Work ID="8ed80b7a-b5eb-38f5-8e22-93bbe1713776" Name="jcalcium">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jcalcium</dc:title>
+         <dc:description>3D realtime skeletal animation package.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jcalcium</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jcalcium</c:Meta>
+         <dc:date>2016-10-04Z</dc:date>
+      </c:Work>
+      <c:Work ID="53fa5343-2ca6-3520-a637-0845476a79eb" Name="jcamera">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jcamera</dc:title>
+         <dc:description>Camera implementations for 3D simulations.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://io7m.github.io/jcamera/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jcamera</c:Meta>
+         <dc:date>2014-10-24Z</dc:date>
+      </c:Work>
+      <c:Work ID="ea9f2f9d-0918-3552-8d9f-60d3139ceb3a" Name="jcanephora">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jcanephora</dc:title>
+         <dc:description>OpenGL plus static safety.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://io7m.github.io/jcanephora</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jcanephora</c:Meta>
+         <dc:date>2012-03-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="28b01f8f-be05-33ae-b8da-7f8ae5603cdd" Name="jcathinone">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jcathinone</dc:title>
+         <dc:description>Apache Artemis message directory spooler.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jcathinone</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jcathinone</c:Meta>
+         <dc:date>2018-08-17Z</dc:date>
+      </c:Work>
+      <c:Work ID="7f3c82a4-a535-3b73-9796-788cca739572" Name="jcip">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jcip</dc:title>
+         <dc:description>Clean-room JCIP annotations.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jcip/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jcip</c:Meta>
+         <dc:date>2013-02-13Z</dc:date>
+      </c:Work>
+      <c:Work ID="de05fbe8-b753-303f-8298-e644b1d5085c" Name="jcolorspace">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jcolorspace</dc:title>
+         <dc:description>Color space conversions.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jcolorspace/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jcolorspace</c:Meta>
+         <dc:date>2022-03-27Z</dc:date>
+      </c:Work>
+      <c:Work ID="cde94eec-b160-3b0f-9be6-9c7731c75fca" Name="jcoords">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jcoords</dc:title>
+         <dc:description>Functions for specifying and converting between coordinate spaces.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jcoords/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jcoords</c:Meta>
+         <dc:date>2016-11-27Z</dc:date>
+      </c:Work>
+      <c:Work ID="de53d619-3a6b-31ec-b751-bec8b22d9c7d" Name="jcoronado">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jcoronado</dc:title>
+         <dc:description>Type-safe Vulkan wrapper.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jcoronado/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jcoronado</c:Meta>
+         <dc:date>2018-06-08Z</dc:date>
+      </c:Work>
+      <c:Work ID="8a252649-54eb-3ed8-9405-3fc0ee91a43d" Name="jdae">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jdae</dc:title>
+         <dc:description>JAXB COLLADA bindings.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://io7m.github.io/jdae</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jdae</c:Meta>
+         <dc:date>2015-12-14Z</dc:date>
+      </c:Work>
+      <c:Work ID="3dd4048a-2d84-3920-99a7-d41ddf073adf" Name="jdeferthrow">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jdeferthrow</dc:title>
+         <dc:description>Defer and combine exceptions.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jdeferthrow/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jdeferthrow</c:Meta>
+         <dc:date>2021-05-04Z</dc:date>
+      </c:Work>
+      <c:Work ID="c1a638e7-2ffe-3887-a6d6-168185249879" Name="jdownload">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jdownload</dc:title>
+         <dc:description>Resumable HTTP downloader library.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jdownload</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jdownload</c:Meta>
+         <dc:date>2018-02-13Z</dc:date>
+      </c:Work>
+      <c:Work ID="a9ab8c7a-d44f-306e-b041-2aa848dfa6e4" Name="jequality">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jequality</dc:title>
+         <dc:description>Equality handling.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jequality/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jequality</c:Meta>
+         <dc:date>2014-04-16Z</dc:date>
+      </c:Work>
+      <c:Work ID="9a93e4fb-a5cc-35b7-9540-0abd40280d5c" Name="jeucreader">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jeucreader</dc:title>
+         <dc:description>Unicode codepoint reader.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jeucreader/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jeucreader</c:Meta>
+         <dc:date>2015-02-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="a05be5de-6724-323e-b5e5-e8a5f84b153c" Name="jfppg">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jfppg</dc:title>
+         <dc:description>Java fixed-point code generator.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jfppg</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jfppg</c:Meta>
+         <dc:date>2012-03-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="8687a889-6318-398f-b9e5-8234e4b34059" Name="jfprop">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jfprop</dc:title>
+         <dc:description>Server for synchronizing Fossil repositories.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jfprop</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jfprop</c:Meta>
+         <dc:date>2014-08-13Z</dc:date>
+      </c:Work>
+      <c:Work ID="49a6250d-a34d-3493-8135-e3a60cd7197f" Name="jfsm">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jfsm</dc:title>
+         <dc:description>Finite state machines.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jfsm/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jfsm</c:Meta>
+         <dc:date>2016-12-14Z</dc:date>
+      </c:Work>
+      <c:Work ID="6267ef12-ef4e-3201-b349-8ba822813845" Name="jfunctional">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jfunctional</dc:title>
+         <dc:description>Functional types.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jfunctional</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jfunctional</c:Meta>
+         <dc:date>2014-04-20Z</dc:date>
+      </c:Work>
+      <c:Work ID="8128b211-dce4-3983-863c-1be4a406462b" Name="jguard">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jguard</dc:title>
+         <dc:description>FreeBSD jail management tools.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://io7m.github.io/jguard</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jguard</c:Meta>
+         <dc:date>2016-11-03Z</dc:date>
+      </c:Work>
+      <c:Work ID="0a76355b-6f16-324e-b213-11a3972f3889" Name="jintegers">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jintegers</dc:title>
+         <dc:description>Integer handling.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jintegers/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jintegers</c:Meta>
+         <dc:date>2014-04-16Z</dc:date>
+      </c:Work>
+      <c:Work ID="d04d7ef5-758e-3656-8495-101cde989f7f" Name="jinterp">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jinterp</dc:title>
+         <dc:description>Interpolation functions.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jinterp/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jinterp</c:Meta>
+         <dc:date>2014-09-01Z</dc:date>
+      </c:Work>
+      <c:Work ID="7a514256-60a1-3bd5-af1f-583a798c3cb1" Name="jjacob">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jjacob</dc:title>
+         <dc:description>High-performance, memory and type-safe bindings to the JACK API.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jjacob</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jjacob</c:Meta>
+         <dc:date>2018-06-03Z</dc:date>
+      </c:Work>
+      <c:Work ID="3285b717-750b-35cc-a011-56bd74ba8941" Name="jlexing">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jlexing</dc:title>
+         <dc:description>Lexer types.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jlexing/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jlexing</c:Meta>
+         <dc:date>2015-10-20Z</dc:date>
+      </c:Work>
+      <c:Work ID="bdf6f241-0b8f-3277-a598-4fe8c470521d" Name="jlog">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jlog</dc:title>
+         <dc:description>Hierarchical logging.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jlog</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jlog</c:Meta>
+         <dc:date>2012-03-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="c3d5408d-bce6-328a-92e3-ef588b35804e" Name="jmulticlose">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jmulticlose</dc:title>
+         <dc:description>Collective try-with-resources.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jmulticlose/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jmulticlose</c:Meta>
+         <dc:date>2018-07-07Z</dc:date>
+      </c:Work>
+      <c:Work ID="437a2c28-9106-3ee2-b657-b040c26d2810" Name="jmurmur">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jmurmur</dc:title>
+         <dc:description>Java implementation of the Murmur hash function.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jmurmur/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jmurmur</c:Meta>
+         <dc:date>2014-09-01Z</dc:date>
+      </c:Work>
+      <c:Work ID="ef0e76a8-2283-3459-aa3a-2bae86f5e5a1" Name="jmutnum">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jmutnum</dc:title>
+         <dc:description>Trivial mutable numbers.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jmutnum/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jmutnum</c:Meta>
+         <dc:date>2017-04-04Z</dc:date>
+      </c:Work>
+      <c:Work ID="1cf27829-1529-3112-8281-260369b6cc41" Name="jnfp">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jnfp</dc:title>
+         <dc:description>Normalized fixed-point value functions.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jnfp/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jnfp</c:Meta>
+         <dc:date>2015-10-25Z</dc:date>
+      </c:Work>
+      <c:Work ID="2de8883d-3d03-3daa-9da2-f9cf40fd156f" Name="jnoisetype">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jnoisetype</dc:title>
+         <dc:description>SoundFontⓡ I/O.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jnoisetype/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jnoisetype</c:Meta>
+         <dc:date>2019-02-25Z</dc:date>
+      </c:Work>
+      <c:Work ID="c9bb0f1d-f56b-3cfc-ae34-c59563f8d5cb" Name="jnull">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jnull</dc:title>
+         <dc:description>Null pointer handling.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jnull</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jnull</c:Meta>
+         <dc:date>2014-04-16Z</dc:date>
+      </c:Work>
+      <c:Work ID="012d82b9-d6b5-320d-9854-2fad5198dc62" Name="jobj">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jobj</dc:title>
+         <dc:description>Java Wavefront OBJ parser.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jobj/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jobj</c:Meta>
+         <dc:date>2015-12-17Z</dc:date>
+      </c:Work>
+      <c:Work ID="b966d747-53b9-3239-b1af-7f3e6390c04a" Name="jorchard">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jorchard</dc:title>
+         <dc:description>Mutable rose-tree types.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jorchard/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jorchard</c:Meta>
+         <dc:date>2016-07-07Z</dc:date>
+      </c:Work>
+      <c:Work ID="49572116-b550-3e19-b512-bd2ff4e29d4c" Name="jparasol">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jparasol</dc:title>
+         <dc:description>Minimalist, pure functional shading language.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://io7m.github.io/jparasol</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jparasol</c:Meta>
+         <dc:date>2013-12-12Z</dc:date>
+      </c:Work>
+      <c:Work ID="25a386ba-1e33-3883-aca3-91ad1ac9114f" Name="jpismo">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jpismo</dc:title>
+         <dc:description>OpenGL text renderer.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://io7m.github.io/jpismo</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jpismo</c:Meta>
+         <dc:date>2012-04-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="88279769-cea1-3456-be89-e02e4dc29669" Name="jpita">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jpita</dc:title>
+         <dc:description>Simple text alignment algorithms.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jpita/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jpita</c:Meta>
+         <dc:date>2016-05-29Z</dc:date>
+      </c:Work>
+      <c:Work ID="2e0617f1-78ed-3925-8e01-aa958c2582a3" Name="jpplib">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jpplib</dc:title>
+         <dc:description>An improved fork of the unmaintained jpplib package.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jpplib/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jpplib</c:Meta>
+         <dc:date>2007-07-18Z</dc:date>
+      </c:Work>
+      <c:Work ID="f6071669-0074-380f-8943-17bbeb5d0f06" Name="jpra">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jpra</dc:title>
+         <dc:description>Fast, mutable, packed records for Java.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jpra/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jpra</c:Meta>
+         <dc:date>2015-10-19Z</dc:date>
+      </c:Work>
+      <c:Work ID="16ca56e5-b7f9-342c-b892-0e396169ba45" Name="jproperties">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jproperties</dc:title>
+         <dc:description>Typed property handling.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jproperties/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jproperties</c:Meta>
+         <dc:date>2014-04-21Z</dc:date>
+      </c:Work>
+      <c:Work ID="0f0faa70-d815-310f-b235-eeb18022695d" Name="jptbox">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jptbox</dc:title>
+         <dc:description>Unicode box drawing.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jptbox/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jptbox</c:Meta>
+         <dc:date>2016-07-30Z</dc:date>
+      </c:Work>
+      <c:Work ID="f240f15f-9cb8-3402-9e4c-6efadeadb8f5" Name="jpuddle">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jpuddle</dc:title>
+         <dc:description>Trivial object pooling.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jpuddle/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jpuddle</c:Meta>
+         <dc:date>2016-02-08Z</dc:date>
+      </c:Work>
+      <c:Work ID="4b934b05-b296-32bf-b81d-f8cc1bd4929b" Name="jqpage">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jqpage</dc:title>
+         <dc:description>SQL pagination functions.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jqpage/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jqpage</c:Meta>
+         <dc:date>2022-10-08Z</dc:date>
+      </c:Work>
+      <c:Work ID="3b3fc4b5-adac-35fa-8fb1-67f29ab5b1c9" Name="jrai">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jrai</dc:title>
+         <dc:description>Apache Artemis → IRC relay bot.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jrai/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jrai</c:Meta>
+         <dc:date>2018-08-18Z</dc:date>
+      </c:Work>
+      <c:Work ID="8b33e5e3-c48d-338f-853f-d2c87a2a4321" Name="jranges">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jranges</dc:title>
+         <dc:description>Range handling.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jranges/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jranges</c:Meta>
+         <dc:date>2014-04-20Z</dc:date>
+      </c:Work>
+      <c:Work ID="953a0785-bb4f-34e9-b350-32d56756250a" Name="jrcl">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jrcl</dc:title>
+         <dc:description>Restricted class loader.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jrcl</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jrcl</c:Meta>
+         <dc:date>2015-05-24Z</dc:date>
+      </c:Work>
+      <c:Work ID="7ff766c7-239d-3e6a-9e63-5cefa2ee7289" Name="jregions">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jregions</dc:title>
+         <dc:description>Immutable area types.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jregions/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jregions</c:Meta>
+         <dc:date>2017-02-27Z</dc:date>
+      </c:Work>
+      <c:Work ID="7b1851cf-bf5d-38a0-9ffc-545e2d1e2be7" Name="jrpack">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jrpack</dc:title>
+         <dc:description>Rectangle packing algorithms.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jrpack</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jrpack</c:Meta>
+         <dc:date>2012-03-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="1a475ce5-d389-3189-86ff-70091717b97f" Name="jsamplebuffer">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jsamplebuffer</dc:title>
+         <dc:description>Audio sample buffer types.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jsamplebuffer/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jsamplebuffer</c:Meta>
+         <dc:date>2019-02-02Z</dc:date>
+      </c:Work>
+      <c:Work ID="2d782165-42a6-315a-b541-fc5b87adfaaf" Name="jsay">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jsay</dc:title>
+         <dc:description>Tiny JMS text message sender.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jsay/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jsay</c:Meta>
+         <dc:date>2019-06-22Z</dc:date>
+      </c:Work>
+      <c:Work ID="af7418fb-e144-35c8-906f-d560d7eb6d93" Name="jserial">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jserial</dc:title>
+         <dc:description>Serial number arithmetic.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jserial/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jserial</c:Meta>
+         <dc:date>2016-06-09Z</dc:date>
+      </c:Work>
+      <c:Work ID="f74e084d-86d9-3bed-92fa-7696cf00b3b1" Name="jspatial">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jspatial</dc:title>
+         <dc:description>Spatial data structures.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jspatial/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jspatial</c:Meta>
+         <dc:date>2012-11-10Z</dc:date>
+      </c:Work>
+      <c:Work ID="6a850c19-bc44-372f-bfef-b5eba3158de1" Name="jspiel">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jspiel</dc:title>
+         <dc:description>Java RIFF I/O.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jspiel/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jspiel</c:Meta>
+         <dc:date>2019-02-10Z</dc:date>
+      </c:Work>
+      <c:Work ID="ee313a74-86ec-316c-90d7-10e7e768bc02" Name="jstructural">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jstructural</dc:title>
+         <dc:description>Java implementation of the structural document language.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://io7m.github.io/jstructural</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jstructural</c:Meta>
+         <dc:date>2014-03-22Z</dc:date>
+      </c:Work>
+      <c:Work ID="44ad1c2b-2704-3271-8a85-7a54471f6125" Name="jsx">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jsx</dc:title>
+         <dc:description>S-expression parser.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jsx/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jsx</c:Meta>
+         <dc:date>2015-02-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="8291c650-94ef-3344-bf73-63755d07bfd3" Name="jsycamore">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jsycamore</dc:title>
+         <dc:description>OpenGL GUI library.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jsycamore</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jsycamore</c:Meta>
+         <dc:date>2012-05-25Z</dc:date>
+      </c:Work>
+      <c:Work ID="dc1c0f24-9d61-35f7-8adc-82f38d520cb3" Name="jtensors">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jtensors</dc:title>
+         <dc:description>Vector/matrix math package.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jtensors/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jtensors</c:Meta>
+         <dc:date>2012-03-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="770fc8df-f704-3520-a291-ba3d9e6516af" Name="jtimeline">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jtimeline</dc:title>
+         <dc:description>Generic timeline package.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jtimeline</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jtimeline</c:Meta>
+         <dc:date>2012-05-10Z</dc:date>
+      </c:Work>
+      <c:Work ID="2d4a71f9-b59d-3a0f-9282-eba32b6aabf8" Name="junreachable">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>junreachable</dc:title>
+         <dc:description>Exception types for marking unreachable/unimplemented code.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/junreachable/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/junreachable</c:Meta>
+         <dc:date>2014-04-16Z</dc:date>
+      </c:Work>
+      <c:Work ID="ab4ab4ae-0e55-326d-b1ce-dac997c922de" Name="junsigned">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>junsigned</dc:title>
+         <dc:description>Missing unsigned value conversions.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/junsigned/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/junsigned</c:Meta>
+         <dc:date>2015-10-24Z</dc:date>
+      </c:Work>
+      <c:Work ID="8ab176e7-4c52-3cb6-ab57-e4bacded850e" Name="jvindicator">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jvindicator</dc:title>
+         <dc:description>Type-safe HTTP servlet parameter validation.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jvindicator/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jvindicator</c:Meta>
+         <dc:date>2022-10-03Z</dc:date>
+      </c:Work>
+      <c:Work ID="05356131-8f91-3efc-9515-52545be85804" Name="jvvfs">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jvvfs</dc:title>
+         <dc:description>Virtual filesystem.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/jvvfs</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jvvfs</c:Meta>
+         <dc:date>2012-03-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="ee5a03a5-9da4-3775-b2d2-8caaeb1c79f1" Name="jwheatsheaf">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jwheatsheaf</dc:title>
+         <dc:description>JavaFX file chooser.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jwheatsheaf/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jwheatsheaf</c:Meta>
+         <dc:date>2020-03-25Z</dc:date>
+      </c:Work>
+      <c:Work ID="3af67d09-8057-33bb-b027-226927e747ed" Name="jwhere">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>jwhere</dc:title>
+         <dc:description>Disk cataloguing tool.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jwhere/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/jwhere</c:Meta>
+         <dc:date>2015-10-04Z</dc:date>
+      </c:Work>
+      <c:Work ID="45142496-f5e1-32c1-a8c8-d7d2c4172761" Name="jxe">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jxe</dc:title>
+         <dc:description>Hardened, boilerplate-free XML parsers.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jxe/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jxe</c:Meta>
+         <dc:date>2018-03-03Z</dc:date>
+      </c:Work>
+      <c:Work ID="839309db-b3dd-3650-8b83-ec7a2ef41e5a" Name="jxtrand">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>jxtrand</dc:title>
+         <dc:description>Utility classes for XML string resources.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/jxtrand/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/jxtrand</c:Meta>
+         <dc:date>2021-01-22Z</dc:date>
+      </c:Work>
+      <c:Work ID="7de80ab7-5d55-3a17-adeb-0973bc34b847" Name="kabstand">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>kabstand</dc:title>
+         <dc:description>Kotlin port of the Abstand package.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/kabstand/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/kabstand</c:Meta>
+         <dc:date>2024-03-18Z</dc:date>
+      </c:Work>
+      <c:Work ID="ebc0ace1-39cc-3ffe-b60b-42d8be5463bd" Name="kstructural">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>kstructural</dc:title>
+         <dc:description>Kotlin implementation of the structural document language.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://io7m.github.io/kstructural</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/kstructural</c:Meta>
+         <dc:date>2016-04-25Z</dc:date>
+      </c:Work>
+      <c:Work ID="40ac3d08-3a2f-3837-a653-7c7828643ad3" Name="lanark">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>lanark</dc:title>
+         <dc:description>Restricted dotted name specification.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/lanark/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/lanark</c:Meta>
+         <dc:date>2022-12-11Z</dc:date>
+      </c:Work>
+      <c:Work ID="2e6961f1-a73b-3fdc-96c5-0de93d54e2c8" Name="laurel">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>laurel</dc:title>
+         <dc:description>Image caption management.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/laurel/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/laurel</c:Meta>
+         <dc:date>2024-01-17Z</dc:date>
+      </c:Work>
+      <c:Work ID="1024cefa-6dc1-3710-93cb-c6bcd4e54744" Name="lfa-launcher">
+         <c:GroupAssignment Name="org.libraryforall"/>
+         <dc:title>lfa-launcher</dc:title>
+         <dc:description>LFA Android launcher application.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/AULFA/launcher</c:Meta>
+      </c:Work>
+      <c:Work ID="15c3b056-f4d4-3047-b260-f7944ba48996" Name="looseleaf">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>looseleaf</dc:title>
+         <dc:description>Minimalist transactional HTTP key/value store.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/looseleaf/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/looseleaf</c:Meta>
+         <dc:date>2022-06-30Z</dc:date>
+      </c:Work>
+      <c:Work ID="b45f74f3-c892-327e-bab4-f0f89878360c" Name="lwjgl3-osgi">
+         <c:GroupAssignment Name="org.lwjgl"/>
+         <dc:title>lwjgl3-osgi</dc:title>
+         <dc:description>LWJGL OSGi packages.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/LWJGL/lwjgl3-osgi</c:Meta>
+      </c:Work>
+      <c:Work ID="6e094f12-a1ee-371d-9e3a-96a91b742d27" Name="medrina">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>medrina</dc:title>
+         <dc:description>Role-based mandatory access control.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/medrina</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/medrina</c:Meta>
+         <dc:date>2021-11-06Z</dc:date>
+      </c:Work>
+      <c:Work ID="d02a169f-3346-3c88-8396-a24dd9d9f1c6" Name="mime">
+         <c:GroupAssignment Name="one.irradia"/>
+         <dc:title>mime</dc:title>
+         <dc:description>RFC2045 MIME type parsing.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/irradia/one.irradia.mime</c:Meta>
+      </c:Work>
+      <c:Work ID="963f8540-bc7c-3f81-ae6b-19d2faca53dc" Name="mime2045">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>mime2045</dc:title>
+         <dc:description>RFC 2045 MIME type parsing.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/mime2045/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/mime2045</c:Meta>
+         <dc:date>2022-12-06Z</dc:date>
+      </c:Work>
+      <c:Work ID="f4611339-810e-3ee9-94ab-20dfaba6d16b" Name="minisite">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>minisite</dc:title>
+         <dc:description>Tiny software project static site generator.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/minisite/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/minisite</c:Meta>
+         <dc:date>2017-10-15Z</dc:date>
+      </c:Work>
+      <c:Work ID="aa7bdb71-2452-37c6-a6da-517b0adc4e25" Name="modulechaser">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>modulechaser</dc:title>
+         <dc:description>Maven plugin for reporting on the modularization status of dependencies.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/modulechaser</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/modulechaser</c:Meta>
+         <dc:date>2018-02-21Z</dc:date>
+      </c:Work>
+      <c:Work ID="86e631ac-9b02-3042-b558-73450e4ebfcb" Name="northpike">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>northpike</dc:title>
+         <dc:description>Continuous integration server.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.github.com/io7m/northpike/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/northpike</c:Meta>
+         <dc:date>2023-07-28Z</dc:date>
+      </c:Work>
+      <c:Work ID="7e300471-35d3-34bd-bf77-2932b9eb9618" Name="oakleaf">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>oakleaf</dc:title>
+         <dc:description>Minimalist article schema and stylesheet.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/oakleaf/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/oakleaf</c:Meta>
+         <dc:date>2020-04-23Z</dc:date>
+      </c:Work>
+      <c:Work ID="0c8ca27f-111d-36ad-969d-cfcb0903cedc" Name="oatfield">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>oatfield</dc:title>
+         <dc:description>OSGi bundle I/O and analysis.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/oatfield/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/oatfield</c:Meta>
+         <dc:date>2022-04-11Z</dc:date>
+      </c:Work>
+      <c:Work ID="4e3d05a9-efdf-31c7-9717-0e643d6a7ade" Name="oci-images">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>oci-images</dc:title>
+         <dc:description>OCI images for various projects.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.github.com/io7m/oci-images/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/oci-images</c:Meta>
+         <dc:date>2022-07-09Z</dc:date>
+      </c:Work>
+      <c:Work ID="c9d0bff6-35ff-338e-84a8-1231838eb43b" Name="opds1_2">
+         <c:GroupAssignment Name="one.irradia"/>
+         <dc:title>opds1_2</dc:title>
+         <dc:description>OPDS 1.2 parser.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/irradia/one.irradia.opds1_2</c:Meta>
+      </c:Work>
+      <c:Work ID="07b0448e-413d-345c-8af8-661e105359be" Name="opds2_0">
+         <c:GroupAssignment Name="one.irradia"/>
+         <dc:title>opds2_0</dc:title>
+         <dc:description>OPDS 2.0 parser.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/irradia/one.irradia.opds2_0</c:Meta>
+      </c:Work>
+      <c:Work ID="5396f6ca-0b59-387b-b279-19fc939d17a6" Name="opdsget">
+         <c:GroupAssignment Name="org.libraryforall"/>
+         <dc:title>opdsget</dc:title>
+         <dc:description>OPDS feed retrieval tool.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/AULFA/opdsget</c:Meta>
+      </c:Work>
+      <c:Work ID="788c1a69-3867-32a6-b5e3-d964f01cd170"
+              Name="openjdk-api-java-client">
+         <c:GroupAssignment Name="org.adoptopenjdk"/>
+         <dc:title>openjdk-api-java-client</dc:title>
+         <dc:description>Java client for the AdoptOpenJDK API.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/AdoptOpenJDK/openjdk-api-java-client</c:Meta>
+      </c:Work>
+      <c:Work ID="87463cf0-68a6-3479-9274-ed310b721eef" Name="oxicoco">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>oxicoco</dc:title>
+         <dc:description>Embeddable Java IRC server component.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/oxicoco</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/oxicoco</c:Meta>
+         <dc:date>2020-12-29Z</dc:date>
+      </c:Work>
+      <c:Work ID="667940ea-3df6-3171-a8ce-f1233b76dc29" Name="palace">
+         <c:GroupAssignment Name="org.thepalaceproject"/>
+         <dc:title>palace</dc:title>
+         <dc:description>The Android client for The Palace Project.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.github.com/ThePalaceProject/android-core</c:Meta>
+      </c:Work>
+      <c:Work ID="fab8d24d-4df3-3e66-8b1f-a65408b47677" Name="pallene">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>pallene</dc:title>
+         <dc:description>An ultra-minimal single-file static web server.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/pallene/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/pallene</c:Meta>
+         <dc:date>2017-11-02Z</dc:date>
+      </c:Work>
+      <c:Work ID="1e77f0bb-7e78-37f1-a2ab-0923bcd52e6a" Name="percentpass">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>percentpass</dc:title>
+         <dc:description>Percent-passing extension for JUnit 5 tests.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/percentpass/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/percentpass</c:Meta>
+         <dc:date>2021-01-16Z</dc:date>
+      </c:Work>
+      <c:Work ID="e0f423fc-2bbd-372f-9e87-5eb75c86ba44" Name="plain-site-skin">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>plain-site-skin</dc:title>
+         <dc:description>Boring Maven site skin.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/plain-site-skin</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/plain-site-skin</c:Meta>
+         <dc:date>2015-07-26Z</dc:date>
+      </c:Work>
+      <c:Work ID="76ea8fd6-96dd-3513-bcbc-a8b6cd8966ef" Name="portero">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>portero</dc:title>
+         <dc:description>Matrix Homeserver invitation token service.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/portero/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/portero</c:Meta>
+         <dc:date>2021-05-28Z</dc:date>
+      </c:Work>
+      <c:Work ID="66bc98d6-8c36-39cb-83c7-a4483e51e877" Name="primogenitor">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>primogenitor</dc:title>
+         <dc:description>Ancestor POM for io7m projects.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/primogenitor</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/primogenitor</c:Meta>
+         <dc:date>2017-03-01Z</dc:date>
+      </c:Work>
+      <c:Work ID="5392d2b5-efb1-32f5-941b-3b9b9ae12f14" Name="quarrel">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>quarrel</dc:title>
+         <dc:description>Strict, opinionated, typed command-line argument parser.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/quarrel</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/quarrel</c:Meta>
+         <dc:date>2023-05-12Z</dc:date>
+      </c:Work>
+      <c:Work ID="4f706b64-576e-3437-abcb-c7620d75f851" Name="quixote">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>quixote</dc:title>
+         <dc:description>Tiny embedded web server for unit testing.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/quixote/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/quixote</c:Meta>
+         <dc:date>2022-11-30Z</dc:date>
+      </c:Work>
+      <c:Work ID="7c92cf1e-ee8d-39cc-85f8-355a3d6e4b86" Name="r1">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>r1</dc:title>
+         <dc:description>Aggressively minimalist deferred rendering system.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/r1</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/r1</c:Meta>
+         <dc:date>2013-07-06Z</dc:date>
+      </c:Work>
+      <c:Work ID="d2791864-28a7-3016-b17e-4df5ea43d080" Name="r2">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>r2</dc:title>
+         <dc:description>Aggressively minimalist second-generation deferred rendering system.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/r2</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/r2</c:Meta>
+         <dc:date>2015-12-09Z</dc:date>
+      </c:Work>
+      <c:Work ID="3905d791-7f2b-3429-890b-01cfb60d8f5b" Name="readme">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>readme</dc:title>
+         <dc:description>Tiny README generator.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/readme/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/readme</c:Meta>
+         <dc:date>2019-08-25Z</dc:date>
+      </c:Work>
+      <c:Work ID="62b2402e-a2dd-3c35-9c4d-ee18b87b040d" Name="repetoir">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>repetoir</dc:title>
+         <dc:description>Service directory.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/repetoir/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/repetoir</c:Meta>
+         <dc:date>2022-12-20Z</dc:date>
+      </c:Work>
+      <c:Work ID="c399ce92-13da-3086-9dcc-c8a8617c522e" Name="saxon-plugin">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>saxon-plugin</dc:title>
+         <dc:description>Simple XSLT processing with Saxon.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/saxon-plugin</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/saxon-plugin</c:Meta>
+         <dc:date>2012-07-16Z</dc:date>
+      </c:Work>
+      <c:Work ID="c982322d-6901-3cae-868c-2c48f94ab5ab" Name="scando">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>scando</dc:title>
+         <dc:description>Tiny japicmp command-line wrapper.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/scando/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/scando</c:Meta>
+         <dc:date>2020-05-01Z</dc:date>
+      </c:Work>
+      <c:Work ID="6a657ff3-efd7-3d5e-8a75-3fac787da1a2" Name="seltzer">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>seltzer</dc:title>
+         <dc:description>A specification for structured, user-facing error values.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/seltzer</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/seltzer</c:Meta>
+         <dc:date>2023-04-23Z</dc:date>
+      </c:Work>
+      <c:Work ID="4a667cd8-ef1d-3c94-9ebc-e52c4b76bcbf" Name="servicedirectory">
+         <c:GroupAssignment Name="one.irradia"/>
+         <dc:title>servicedirectory</dc:title>
+         <dc:description>Android-oriented lazy application service directory.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/irradia/one.irradia.servicedirectory</c:Meta>
+      </c:Work>
+      <c:Work ID="ef23cfd6-a239-31a6-960b-2013d0d7ccb5" Name="servitor">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>servitor</dc:title>
+         <dc:description>Static podman/systemd service generator.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.github.com/io7m/servitor</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/servitor</c:Meta>
+         <dc:date>2023-05-27Z</dc:date>
+      </c:Work>
+      <c:Work ID="228bdf59-010f-34ee-9a94-897aa93a34c5" Name="sigiltron">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>sigiltron</dc:title>
+         <dc:description>Mysterious symbol generator.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/sigiltron</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/sigiltron</c:Meta>
+         <dc:date>2014-07-11Z</dc:date>
+      </c:Work>
+      <c:Work ID="e524019b-18b2-3acf-a72b-1560a866853b" Name="smfj">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>smfj</dc:title>
+         <dc:description>Minimalist sequential mesh format.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/smfj</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/smfj</c:Meta>
+         <dc:date>2016-11-16Z</dc:date>
+      </c:Work>
+      <c:Work ID="a0071ccc-e486-3605-b553-4b6aa5f34d6e" Name="sombrero">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>sombrero</dc:title>
+         <dc:description>Shader management and preprocessing system.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://io7m.github.io/sombrero</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/sombrero</c:Meta>
+         <dc:date>2016-12-09Z</dc:date>
+      </c:Work>
+      <c:Work ID="f47bd076-83b2-35c1-bf48-bac9e5297dba" Name="streamtime">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>streamtime</dc:title>
+         <dc:description>Input/output stream progress tracking.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/streamtime/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/streamtime</c:Meta>
+         <dc:date>2023-08-03Z</dc:date>
+      </c:Work>
+      <c:Work ID="286d3c33-563f-3115-89d2-8e8292842ed3" Name="sunburst">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>sunburst</dc:title>
+         <dc:description>Asset package system.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/sunburst/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/sunburst</c:Meta>
+         <dc:date>2022-11-03Z</dc:date>
+      </c:Work>
+      <c:Work ID="3cbec8a1-fe8e-3d4e-9b94-302f95f45188" Name="tabla">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>tabla</dc:title>
+         <dc:description>Plain text table rendering.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/tabla/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/tabla</c:Meta>
+         <dc:date>2023-07-02Z</dc:date>
+      </c:Work>
+      <c:Work ID="866eaa0d-bcd1-356a-be82-54c84aea98d5" Name="tavella">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>tavella</dc:title>
+         <dc:description>Podman Java interface.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/tavella/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/tavella</c:Meta>
+         <dc:date>2023-10-22Z</dc:date>
+      </c:Work>
+      <c:Work ID="e3f190d6-621f-36ea-8e5f-11d58931e4a3" Name="thoth">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>thoth</dc:title>
+         <dc:description>Experimental, extensible OSGi-based IRC bot.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://github.com/io7m/thoth/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/thoth</c:Meta>
+         <dc:date>2017-02-02Z</dc:date>
+      </c:Work>
+      <c:Work ID="2a115235-9750-3c94-b3e6-8db7bb962fe1" Name="timehack6435126">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>timehack6435126</dc:title>
+         <dc:description>JVM high-resolution timer bug workaround.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/timehack6435126/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/timehack6435126</c:Meta>
+         <dc:date>2015-08-23Z</dc:date>
+      </c:Work>
+      <c:Work ID="fd0438b7-6c95-3231-ba95-48f8eb778434" Name="trasco">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>trasco</dc:title>
+         <dc:description>SQL database schema revision system.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/trasco/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/trasco</c:Meta>
+         <dc:date>2022-02-11Z</dc:date>
+      </c:Work>
+      <c:Work ID="f2c601cc-f8fa-30a9-84c3-c3ee298a633e" Name="usq">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>usq</dc:title>
+         <dc:description>Unsupervised persistent queues.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.github.com/io7m/usq/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/usq</c:Meta>
+         <dc:date>2024-04-27Z</dc:date>
+      </c:Work>
+      <c:Work ID="cf1ee137-0649-368d-ac77-e9566885457d" Name="verdant">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>verdant</dc:title>
+         <dc:description>Binary protocol for HTTP endpoint version announcements.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/verdant/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/verdant</c:Meta>
+         <dc:date>2022-10-01Z</dc:date>
+      </c:Work>
+      <c:Work ID="fcf434f2-763c-3fbd-99a6-e83059268b50" Name="verona">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>verona</dc:title>
+         <dc:description>Semantic versioning types.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/verona/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/verona</c:Meta>
+         <dc:date>2022-11-12Z</dc:date>
+      </c:Work>
+      <c:Work ID="9176042a-c674-3823-880b-cfd2caf2a5e6" Name="waxmill">
+         <c:GroupAssignment Name="com.io7m.eol"/>
+         <dc:title>waxmill</dc:title>
+         <dc:description>FreeBSD BHyve manager.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/waxmill/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m/waxmill</c:Meta>
+         <dc:date>2020-06-18Z</dc:date>
+      </c:Work>
+      <c:Work ID="7364d8eb-ee7c-3b46-9eb2-bf9967d3d484" Name="wendover">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>wendover</dc:title>
+         <dc:description>Java NIO channel tools.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/wendover/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/wendover</c:Meta>
+         <dc:date>2022-04-19Z</dc:date>
+      </c:Work>
+      <c:Work ID="b9ad2fff-f3ff-3de0-9835-9d24aae07cd9" Name="xoanon">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>xoanon</dc:title>
+         <dc:description>JUnit 5 JavaFX test harness.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/xoanon/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/xoanon</c:Meta>
+         <dc:date>2023-05-02Z</dc:date>
+      </c:Work>
+      <c:Work ID="0683234a-50bf-384b-b192-76b41b3189f9" Name="xstructural">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>xstructural</dc:title>
+         <dc:description>XSLT implementation of the structural document language.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/xstructural/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/xstructural</c:Meta>
+         <dc:date>2020-04-26Z</dc:date>
+      </c:Work>
+      <c:Work ID="a10f83e6-b3d9-3a29-bf4a-856d8273c016" Name="zelador">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>zelador</dc:title>
+         <dc:description>JUnit 5 cleaning service.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/zelador/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/zelador</c:Meta>
+         <dc:date>2023-06-27Z</dc:date>
+      </c:Work>
+      <c:Work ID="2ed76581-c3b8-335c-b37a-da8a32b5738d" Name="zeptoblog">
+         <c:GroupAssignment Name="com.io7m.core"/>
+         <dc:title>zeptoblog</dc:title>
+         <dc:description>Tiny, modular, static blog generator.</dc:description>
+         <dc:rights>ISC License</dc:rights>
+         <dc:type>Software</dc:type>
+         <c:Meta Name="site">https://www.io7m.com/software/zeptoblog/</c:Meta>
+         <c:Meta Name="scm_source">https://www.github.com/io7m-com/zeptoblog</c:Meta>
+         <dc:date>2017-02-25Z</dc:date>
+      </c:Work>
+   </c:Works>
+</c:Catalog>
