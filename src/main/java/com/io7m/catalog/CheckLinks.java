@@ -53,6 +53,9 @@ public final class CheckLinks
   {
     final var documents =
       DocumentBuilderFactory.newDefaultNSInstance();
+
+    documents.setXIncludeAware(true);
+
     final var documentBuilder =
       documents.newDocumentBuilder();
     final var document =

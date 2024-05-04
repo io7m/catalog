@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c:Works xmlns:c="urn:com.io7m.catalog:1" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <c:Work ID="b43db155-3ffe-42b4-be5f-50ebc213d969"
+          Name="com.io7m.documents.adt-jvm">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>Algebraic Types On The JVM</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2016-01-19Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/adt-jvm/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-adt-jvm</c:Meta>
+  </c:Work>
+  <c:Work ID="73c75bd6-95b3-4cfb-897a-9db2d156361e"
+          Name="com.io7m.documents.aeron-guide">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>Aeron For The Working Programmer</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2018-09-11Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/aeron-guide</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/aeron-guide</c:Meta>
+  </c:Work>
+  <c:Work ID="5f1513cc-f088-4ee1-bde2-a02a42567f50"
+          Name="com.io7m.documents.atmega328p-fn">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>The ATMega328P From (Almost) Nothing</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2021-08-29Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/atmega328p-fn</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-atmega328p-fn</c:Meta>
+  </c:Work>
+  <c:Work ID="b7386f98-43b0-46ad-847d-1fea91955248"
+          Name="com.io7m.documents.brutal-felix-logging">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>A Brutal Approach To Logging In An Embedded Apache Felix</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2016-09-03Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/brutal-felix-logging</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-brutal-felix-logging</c:Meta>
+  </c:Work>
+  <c:Work ID="3cf09262-dc77-4a33-a86b-b575476940bf"
+          Name="com.io7m.documents.ccat">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title> 	Crash Course In Algebraic Types</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2012-07-29Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/ccat</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-ccat</c:Meta>
+  </c:Work>
+  <c:Work ID="b42f5e8f-9978-43cb-8a75-9a8d0d3db3ea"
+          Name="com.io7m.documents.displacement2d">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>2D GPU Displacement Mapping</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2012-04-25Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/displacement2d</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-displacement2d</c:Meta>
+  </c:Work>
+  <c:Work ID="c7d50fb7-a093-4b46-bffd-e2fed107449a"
+          Name="com.io7m.documents.fso-tta">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>Fragment Shader Outputs - Through The Ages</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2014-06-28Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/fso-tta</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-fso-tta</c:Meta>
+  </c:Work>
+  <c:Work ID="9f9079b3-489a-47be-8d0f-bb8145813832"
+          Name="com.io7m.documents.glow-maps">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>Glow Maps</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2012-07-30Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/glow-maps</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-glow-maps</c:Meta>
+  </c:Work>
+  <c:Work ID="489913c0-6b4e-4376-b808-646847e0b473"
+          Name="com.io7m.documents.history-vertex-spec">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>A Brief History Of Vertex Specification In OpenGL</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2012-01-19Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/history-vertex-spec</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-history-vertex-spec</c:Meta>
+  </c:Work>
+  <c:Work ID="f496b78a-eede-40c8-b83b-1e982f840d49"
+          Name="com.io7m.documents.lightweight-static-exceptions">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title> 	Lightweight Static Exceptions</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2012-04-26Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/lightweight-static-exceptions</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-lightweight-static-exceptions</c:Meta>
+  </c:Work>
+  <c:Work ID="9d7d8b54-feec-4225-92d0-78a881c0b247"
+          Name="com.io7m.documents.outline-glsl">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>Simple GPU Outline Shaders</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2022-10-30Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/outline-glsl</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-outline-glsl</c:Meta>
+  </c:Work>
+  <c:Work ID="3f225c72-ce44-4944-98f4-c2c78b281d51"
+          Name="com.io7m.documents.tt0-pcio">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>Type Tricks 0 - Propositions In Constructors Of Immutable Objects</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2012-06-18Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/tt0-pcio</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-tt0-pcio</c:Meta>
+  </c:Work>
+  <c:Work ID="19a4592c-1918-4f9d-b698-83630f234651"
+          Name="com.io7m.documents.tt1-pt">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>Type Tricks 1 - Phantom Types</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2012-06-19Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/tt1-pt</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-tt1-pt</c:Meta>
+  </c:Work>
+  <c:Work ID="4cdd13aa-1b09-43a4-9797-7c91aaa9b440"
+          Name="com.io7m.documents.tt2-intcap">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>Type Tricks 2 - Interfaces As Capabilities</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2013-07-24Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/tt2-intcap</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-tt2-intcap</c:Meta>
+  </c:Work>
+  <c:Work ID="146f622b-4124-4368-9af7-003e331a0f85"
+          Name="com.io7m.documents.tt3-genvis">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>Type Tricks 3 - Generic Visitors</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2015-06-03Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/tt3-genvis</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-tt3-genvis</c:Meta>
+  </c:Work>
+  <c:Work ID="3b73e80a-58bc-40d4-b7b9-29cd13842500"
+          Name="com.io7m.documents.udp-reliable">
+    <c:GroupAssignment Name="com.io7m.documents"/>
+    <dc:title>Reliable UDP Algorithms</dc:title>
+    <dc:type>Article</dc:type>
+    <dc:date>2016-08-20Z</dc:date>
+    <c:Meta Name="site">https://www.io7m.com/documents/udp-reliable</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/site-doc-udp-reliable</c:Meta>
+  </c:Work>
+</c:Works>

@@ -3,6 +3,9 @@
 <c:Catalog xmlns:c="urn:com.io7m.catalog:1"
            xmlns:xi="http://www.w3.org/2001/XInclude">
   <c:Groups>
+    <c:Group Name="com.io7m.documents">
+      io7m documents.
+    </c:Group>
     <c:Group Name="com.io7m.art">
       io7m artistic works.
     </c:Group>
@@ -36,6 +39,7 @@
     <xi:include href="catalog-immutables.xml"/>
     <xi:include href="catalog-io7m-art.xml"/>
     <xi:include href="catalog-io7m-core.xml"/>
+    <xi:include href="catalog-io7m-documents.xml"/>
     <xi:include href="catalog-io7m-eol.xml"/>
     <xi:include href="catalog-irradia.xml"/>
     <xi:include href="catalog-lfa.xml"/>
