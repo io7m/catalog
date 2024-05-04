@@ -31,6 +31,7 @@
   <c:Works>
     <xi:include href="catalog-adoptopenjdk.xml"/>
     <xi:include href="catalog-immutables.xml"/>
+    <xi:include href="catalog-io7m-art.xml"/>
     <xi:include href="catalog-io7m-core.xml"/>
     <xi:include href="catalog-io7m-eol.xml"/>
     <xi:include href="catalog-irradia.xml"/>

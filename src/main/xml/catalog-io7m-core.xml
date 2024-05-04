@@ -571,6 +571,16 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/jobj</c:Meta>
     <dc:date>2015-12-17Z</dc:date>
   </c:Work>
+  <c:Work ID="08ec3d0c-e4df-42db-897c-314dc3ccdcba" Name="jodist">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>jodist</dc:title>
+    <dc:description>Coffee-flavoured source code generation.</dc:description>
+    <dc:rights>Apache 2.0</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/jodist/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/jodist</c:Meta>
+    <dc:date>2012-06-25Z</dc:date>
+  </c:Work>
   <c:Work ID="b966d747-53b9-3239-b1af-7f3e6390c04a" Name="jorchard">
     <c:GroupAssignment Name="com.io7m.core"/>
     <dc:title>jorchard</dc:title>
@@ -700,6 +710,16 @@
     <c:Meta Name="site">https://www.io7m.com/software/jspatial/</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/jspatial</c:Meta>
     <dc:date>2012-11-10Z</dc:date>
+  </c:Work>
+  <c:Work ID="6b2242d7-c0ec-4b94-b647-3f91bcf35667" Name="jspearmint">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>jspearmint</dc:title>
+    <dc:description>SPIR-V toolkit.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/jspearmint/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/jspearmint</c:Meta>
+    <dc:date>2020-05-20Z</dc:date>
   </c:Work>
   <c:Work ID="6a850c19-bc44-372f-bfef-b5eba3158de1" Name="jspiel">
     <c:GroupAssignment Name="com.io7m.core"/>
