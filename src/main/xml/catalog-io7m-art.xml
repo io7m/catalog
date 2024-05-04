@@ -1,5 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <c:Works xmlns:c="urn:com.io7m.catalog:1" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <c:Work ID="c68dca35-7e05-4da4-a3c5-405c5fd00697"
+          Name="com.io7m.music.unbolted_frontiers">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2019-03-14Z</dc:date>
+    <dc:description>Unbolted Frontiers</dc:description>
+    <dc:rights>Public Domain</dc:rights>
+    <dc:type>Soundfont</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.music.unbolted_frontiers</c:Meta>
+  </c:Work>
+  <c:Work ID="b8643be3-7831-4f7d-b6b1-d61a17b22481"
+          Name="com.io7m.music.kit.dust_yard">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2021-04-04Z</dc:date>
+    <dc:description>Dust Yard</dc:description>
+    <dc:rights>Public Domain</dc:rights>
+    <dc:type>Soundfont</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.music.kit.dust_yard</c:Meta>
+  </c:Work>
+  <c:Work ID="b0e996dc-e798-4e41-a339-061023d99a87"
+          Name="com.io7m.music.kit.calais">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2022-04-08Z</dc:date>
+    <dc:description>Calais</dc:description>
+    <dc:rights>Public Domain</dc:rights>
+    <dc:type>Soundfont</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.music.kit.calais</c:Meta>
+  </c:Work>
+  <c:Work ID="69a8498e-af54-4e3e-9bcd-932c6ea48769"
+          Name="com.io7m.music.dw.broadway">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2022-04-08Z</dc:date>
+    <dc:description>Turnwise Broadway</dc:description>
+    <dc:rights>CC BY-NC-SA 4.0</dc:rights>
+    <dc:type>Music</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.music.dw.broadway</c:Meta>
+  </c:Work>
 
+  <c:Work ID="24b65d8d-d219-4630-98a6-a3bef1a84d8e"
+          Name="com.io7m.visual.vanishing_path1">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2020-03-19Z</dc:date>
+    <dc:description>The Vanishing Path 1</dc:description>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:type>Image</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.visual.vanishing_path1</c:Meta>
+  </c:Work>
+  <c:Work ID="9aec39b6-f191-4a5a-a3d2-6837ba85bdb0"
+          Name="com.io7m.visual.engineer_sleep">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2020-08-23Z</dc:date>
+    <dc:description>The Sleep Of The Engineer</dc:description>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:type>Image</dc:type>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.visual.engineer_sleep</c:Meta>
+  </c:Work>
+  <c:Work ID="9fa906e0-947f-409a-950b-bd7adf08de8c"
+          Name="com.io7m.visual.heavywater">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2020-09-11Z</dc:date>
+    <dc:description>Heavy Water Station</dc:description>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:type>Image</dc:type>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.visual.heavywater</c:Meta>
+  </c:Work>
+  <c:Work ID="ae987b90-568b-4990-b6d4-857c2db859b0"
+          Name="com.io7m.visual.openpose_rig">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2023-12-30Z</dc:date>
+    <dc:description>OpenPose rigs for Blender</dc:description>
+    <dc:rights>Public Domain</dc:rights>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.visual.openpose_rig</c:Meta>
+  </c:Work>
+  <c:Work ID="de247c60-339b-4961-9d5b-53560d5be874"
+          Name="com.io7m.visual.lowcarb">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2024-01-07Z</dc:date>
+    <dc:description>Low carb 3D models for Stable Diffusion</dc:description>
+    <dc:rights>Public Domain</dc:rights>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.visual.lowcarb</c:Meta>
+  </c:Work>
+  <c:Work ID="ff3b11bf-8598-4117-bbf2-212ffae22c90"
+          Name="com.io7m.visual.comfyui.wideoutpaint">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2024-04-14Z</dc:date>
+    <dc:description>Wide outpainting workflow for ComfyUI</dc:description>
+    <dc:rights>Public Domain</dc:rights>
+    <dc:type>Script</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.visual.comfyui.wideoutpaint</c:Meta>
+  </c:Work>
+  <c:Work ID="90ce5390-66ab-427d-be96-eca4ee36c88d"
+          Name="com.io7m.construction.icms">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2024-04-14Z</dc:date>
+    <dc:description>A 3D-printable shell for the MakerHawk OV5647 webcam module</dc:description>
+    <dc:rights>Public Domain</dc:rights>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.construction.icms</c:Meta>
+  </c:Work>
+  <c:Work ID="6de89dc6-44f7-48fc-b427-10e3e38f3b79"
+          Name="com.io7m.visual.dimenec">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2019-12-30Z</dc:date>
+    <dc:description>Dimenec</dc:description>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:type>Image</dc:type>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/v-dimenec</c:Meta>
+  </c:Work>
+  <c:Work ID="db419e02-3b6d-4aab-9227-8382a9980650"
+          Name="com.io7m.visual.chemriver">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2017-08-31Z</dc:date>
+    <dc:description>Chemriver</dc:description>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:type>Image</dc:type>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/v-chemriver</c:Meta>
+  </c:Work>
+  <c:Work ID="7d465565-aacf-4150-ac96-304d79289129"
+          Name="com.io7m.visual.convenience">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2019-09-07Z</dc:date>
+    <dc:description>Convenience</dc:description>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:type>Image</dc:type>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/v-convenience</c:Meta>
+  </c:Work>
+  <c:Work ID="aa1b708c-9e8b-4d04-a47b-e56581e1f487"
+          Name="com.io7m.visual.pine">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2017-09-08Z</dc:date>
+    <dc:description>Pine</dc:description>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:type>Image</dc:type>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/v-pine</c:Meta>
+  </c:Work>
+  <c:Work ID="c54cd40c-bad0-4888-89ce-fd08b265e7e6"
+          Name="com.io7m.visual.pillow">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2016-10-20Z</dc:date>
+    <dc:description>Pillow</dc:description>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:type>Image</dc:type>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/v-pillow</c:Meta>
+  </c:Work>
+  <c:Work ID="f38dc1a6-e155-4322-a7ec-efa65e858e28"
+          Name="com.io7m.visual.corn">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2016-10-19Z</dc:date>
+    <dc:description>Corn</dc:description>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:type>Image</dc:type>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/v-corn</c:Meta>
+  </c:Work>
+  <c:Work ID="312dc5c8-73d7-4c69-b45f-ae17492b9207"
+          Name="com.io7m.visual.rabbit">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2016-10-24Z</dc:date>
+    <dc:description>Rabbit</dc:description>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:type>Image</dc:type>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/v-rabbit</c:Meta>
+  </c:Work>
+  <c:Work ID="2f5128f8-30c9-4c83-b7ff-bacda3185316"
+          Name="com.io7m.visual.workbot">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2016-10-29Z</dc:date>
+    <dc:description>Workbot</dc:description>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:type>Image</dc:type>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/v-workbot</c:Meta>
+  </c:Work>
+  <c:Work ID="366edcd5-971f-4c2c-816d-a25e5bc28db7"
+          Name="com.io7m.visual.baguette">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2016-10-18Z</dc:date>
+    <dc:description>Baguette</dc:description>
+    <dc:rights>CC BY 4.0</dc:rights>
+    <dc:type>Image</dc:type>
+    <dc:type>3D Model</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/v-baguette</c:Meta>
+  </c:Work>
 </c:Works>

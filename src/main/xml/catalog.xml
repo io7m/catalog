@@ -3,6 +3,9 @@
 <c:Catalog xmlns:c="urn:com.io7m.catalog:1"
            xmlns:xi="http://www.w3.org/2001/XInclude">
   <c:Groups>
+    <c:Group Name="com.io7m.art">
+      io7m artistic works.
+    </c:Group>
     <c:Group Name="com.io7m.core">
       Core, actively maintained io7m projects.
     </c:Group>
