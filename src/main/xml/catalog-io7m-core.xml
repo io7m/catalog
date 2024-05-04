@@ -897,9 +897,19 @@
     <dc:description>Continuous integration server.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://www.github.com/io7m/northpike/</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/northpike/</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/northpike</c:Meta>
     <dc:date>2023-07-28Z</dc:date>
+  </c:Work>
+  <c:Work ID="2c1f288e-f5a8-4f4d-8ce4-723b27a310fc" Name="northpike.packaging">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>northpike.packaging</dc:title>
+    <dc:description>Platform-specific packaging for Northpike.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/northpike/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/northpike.packaging</c:Meta>
+    <dc:date>2023-11-10Z</dc:date>
   </c:Work>
   <c:Work ID="87463cf0-68a6-3479-9274-ed310b721eef" Name="oxicoco">
     <c:GroupAssignment Name="com.io7m.core"/>
