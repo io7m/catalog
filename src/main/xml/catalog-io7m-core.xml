@@ -311,6 +311,16 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/ieee754b16</c:Meta>
     <dc:date>2013-10-28Z</dc:date>
   </c:Work>
+  <c:Work ID="77051c58-1439-4288-adc4-d3c0f71385a1" Name="immutables-style">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>immutables-style</dc:title>
+    <dc:description>Immutables.org annotations for io7m projects.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/immutables-style/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/immutables-style</c:Meta>
+    <dc:date>2018-05-22Z</dc:date>
+  </c:Work>
   <c:Work ID="69f06933-819e-30cc-b03d-6a7767d91716" Name="jaccord">
     <c:GroupAssignment Name="com.io7m.core"/>
     <dc:title>jaccord</dc:title>
