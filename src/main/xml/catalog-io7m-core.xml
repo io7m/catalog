@@ -1071,6 +1071,16 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/tabla</c:Meta>
     <dc:date>2023-07-02Z</dc:date>
   </c:Work>
+  <c:Work ID="49e4270d-7d2a-4952-9349-c705e6a41c6f" Name="taskrecorder">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>taskrecorder</dc:title>
+    <dc:description>UI task recorder.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/taskrecorder/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/taskrecorder</c:Meta>
+    <dc:date>2022-09-08Z</dc:date>
+  </c:Work>
   <c:Work ID="866eaa0d-bcd1-356a-be82-54c84aea98d5" Name="tavella">
     <c:GroupAssignment Name="com.io7m.core"/>
     <dc:title>tavella</dc:title>
