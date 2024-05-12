@@ -1051,6 +1051,16 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/streamtime</c:Meta>
     <dc:date>2023-08-03Z</dc:date>
   </c:Work>
+  <c:Work ID="6925dadc-f8f1-48dd-a801-7abc92c0903d" Name="string-template-maven-plugin">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>string-template-maven-plugin</dc:title>
+    <dc:description>String Template Maven plugin.</dc:description>
+    <dc:rights>MIT License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/string-template-maven-plugin/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/string-template-maven-plugin</c:Meta>
+    <dc:date>2011-11-20Z</dc:date>
+  </c:Work>
   <c:Work ID="286d3c33-563f-3115-89d2-8e8292842ed3" Name="sunburst">
     <c:GroupAssignment Name="com.io7m.core"/>
     <dc:title>sunburst</dc:title>
