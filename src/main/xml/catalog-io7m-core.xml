@@ -564,7 +564,7 @@
   <c:Work ID="2de8883d-3d03-3daa-9da2-f9cf40fd156f" Name="jnoisetype">
     <c:GroupAssignment Name="com.io7m.core"/>
     <dc:title>jnoisetype</dc:title>
-    <dc:description>SoundFontⓡ I/O.</dc:description>
+    <dc:description>SoundFont® I/O.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
     <c:Meta Name="site">https://www.io7m.com/software/jnoisetype/</c:Meta>
