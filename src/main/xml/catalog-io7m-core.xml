@@ -1201,4 +1201,24 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/zeptoblog</c:Meta>
     <dc:date>2017-02-25Z</dc:date>
   </c:Work>
+  <c:Work ID="2db624bf-3cc5-4737-8d6b-b32bdae50b8c" Name="darco">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>darco</dc:title>
+    <dc:description>Minimalist, opinionated database access.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/darco/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/darco</c:Meta>
+    <dc:date>2024-05-26Z</dc:date>
+  </c:Work>
+  <c:Work ID="aa280342-1c81-4688-b246-fd68f0a747a4" Name="cardant_gui">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>cardant_gui</dc:title>
+    <dc:description>Cardant JavaFX GUI.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/cardant_gui/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/cardant_gui</c:Meta>
+    <dc:date>2024-05-26Z</dc:date>
+  </c:Work>
 </c:Works>
