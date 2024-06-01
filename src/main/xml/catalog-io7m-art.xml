@@ -97,7 +97,7 @@
   <c:Work ID="90ce5390-66ab-427d-be96-eca4ee36c88d"
           Name="com.io7m.construction.icms">
     <c:GroupAssignment Name="com.io7m.art"/>
-    <dc:date>2024-04-14Z</dc:date>
+    <dc:date>2020-09-27Z</dc:date>
     <dc:description>A 3D-printable shell for the MakerHawk OV5647 webcam module</dc:description>
     <dc:rights>Public Domain</dc:rights>
     <dc:type>3D Model</dc:type>
