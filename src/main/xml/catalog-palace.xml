@@ -46,4 +46,13 @@
     <c:Meta Name="site">https://www.github.com/ThePalaceProject/android-ci</c:Meta>
     <dc:date>2020-11-16Z</dc:date>
   </c:Work>
+  <c:Work ID="21e74acf-63cf-4987-aa6c-feed5f95f162" Name="palace-drm-core">
+    <c:GroupAssignment Name="org.thepalaceproject"/>
+    <dc:title>palace-drm-core</dc:title>
+    <dc:description>The Palace DRM API.</dc:description>
+    <dc:rights>Apache 2.0 License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.github.com/ThePalaceProject/android-drm-core</c:Meta>
+    <dc:date>2015-09-15Z</dc:date>
+  </c:Work>
 </c:Works>
