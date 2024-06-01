@@ -139,6 +139,8 @@
           </xsd:documentation>
         </xsd:annotation>
       </xsd:attribute>
+
+      <xsd:attributeGroup ref="c:standardXMLAttributes"/>
     </xsd:complexType>
   </xsd:element>
 
@@ -173,6 +175,8 @@
         <xsd:element ref="c:Groups"/>
         <xsd:element ref="c:Works"/>
       </xsd:sequence>
+
+      <xsd:attributeGroup ref="c:standardXMLAttributes"/>
     </xsd:complexType>
 
     <xsd:key name="GroupName">
