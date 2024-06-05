@@ -16,7 +16,7 @@
     <dc:description>The Palace audiobook player API.</dc:description>
     <dc:rights>Apache 2.0 License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://www.github.com/ThePalaceProject/audiobook-android</c:Meta>
+    <c:Meta Name="site">https://www.github.com/ThePalaceProject/android-audiobook</c:Meta>
     <dc:date>2018-07-16Z</dc:date>
   </c:Work>
   <c:Work ID="a409e54f-af24-4bd5-97c4-473d9acac8b4" Name="palace-r2">
