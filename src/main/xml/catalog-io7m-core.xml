@@ -1221,4 +1221,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/cardant_gui</c:Meta>
     <dc:date>2024-05-26Z</dc:date>
   </c:Work>
+  <c:Work ID="02f60546-419a-490c-a718-64cb4e2d48b1" Name="garriga">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>garriga</dc:title>
+    <dc:description>AlertManager → Matrix Alert Relay.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/garriga/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/garriga</c:Meta>
+    <dc:date>2024-06-13Z</dc:date>
+  </c:Work>
 </c:Works>
