@@ -355,7 +355,6 @@
     <dc:description>OSGi bundle I/O and analysis.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://www.io7m.com/software/oatfield/</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m/oatfield</c:Meta>
     <dc:date>2022-04-11Z</dc:date>
   </c:Work>
