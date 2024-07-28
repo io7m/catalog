@@ -1231,4 +1231,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/garriga</c:Meta>
     <dc:date>2024-06-13Z</dc:date>
   </c:Work>
+  <c:Work ID="506c597f-b987-4e3a-bd1e-de0417b94244" Name="brackish">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>brackish</dc:title>
+    <dc:description>JavaFX waveform display component.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/brackish/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/brackish</c:Meta>
+    <dc:date>2024-07-28Z</dc:date>
+  </c:Work>
 </c:Works>

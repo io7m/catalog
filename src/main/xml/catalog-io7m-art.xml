@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <c:Works xmlns:c="urn:com.io7m.catalog:1" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <c:Work ID="f04cf57d-d446-4353-98bf-e4565ee8daad"
+          Name="com.io7m.music.starpath">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2024-07-28Z</dc:date>
+    <dc:description>Star Path</dc:description>
+    <dc:rights>CC BY-NC-SA 4.0</dc:rights>
+    <dc:type>Music</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.music.starpath</c:Meta>
+  </c:Work>
   <c:Work ID="c68dca35-7e05-4da4-a3c5-405c5fd00697"
           Name="com.io7m.music.unbolted_frontiers">
     <c:GroupAssignment Name="com.io7m.art"/>
