@@ -1241,4 +1241,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/brackish</c:Meta>
     <dc:date>2024-07-28Z</dc:date>
   </c:Work>
+  <c:Work ID="ee1dc3b4-c529-48e2-a42a-37b2161f8763" Name="miscue">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>miscue</dc:title>
+    <dc:description>UI error dialogs.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/miscue/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/miscue</c:Meta>
+    <dc:date>2024-08-02Z</dc:date>
+  </c:Work>
 </c:Works>
