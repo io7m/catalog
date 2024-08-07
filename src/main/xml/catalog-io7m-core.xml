@@ -1251,4 +1251,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/miscue</c:Meta>
     <dc:date>2024-08-02Z</dc:date>
   </c:Work>
+  <c:Work ID="241caa34-270c-4291-b708-3d05719bf5ac" Name="ivoirax">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>ivoirax</dc:title>
+    <dc:description>JavaFX piano component.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/ivoirax/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/ivoirax</c:Meta>
+    <dc:date>2024-08-07Z</dc:date>
+  </c:Work>
 </c:Works>
