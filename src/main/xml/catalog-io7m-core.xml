@@ -1281,4 +1281,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/exfilac</c:Meta>
     <dc:date>2024-09-20Z</dc:date>
   </c:Work>
+  <c:Work ID="56c3de72-297e-4557-bc1c-0e07577820a7" Name="xyloid">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>xyloid</dc:title>
+    <dc:description>Repackaged xerial sqlite-jdbc binaries.</dc:description>
+    <dc:rights>Apache 2.0 License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/xyloid/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/xyloid</c:Meta>
+    <dc:date>2024-09-21Z</dc:date>
+  </c:Work>
 </c:Works>
