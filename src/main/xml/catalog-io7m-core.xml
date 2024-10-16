@@ -1291,4 +1291,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/xyloid</c:Meta>
     <dc:date>2024-09-21Z</dc:date>
   </c:Work>
+  <c:Work ID="7c9e6b84-0d04-46b1-bc66-2f5b1e6f10dc" Name="montarre">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>montarre</dc:title>
+    <dc:description>Application packaging tools.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/montarre/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/montarre</c:Meta>
+    <dc:date>2024-10-16Z</dc:date>
+  </c:Work>
 </c:Works>
