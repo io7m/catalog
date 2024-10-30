@@ -1301,4 +1301,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/montarre</c:Meta>
     <dc:date>2024-10-16Z</dc:date>
   </c:Work>
+  <c:Work ID="23b22431-d778-4f8c-a1f2-07190c2cf3a5" Name="blockhead">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>blockhead</dc:title>
+    <dc:description>Unbound blocklist maintenance.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/blockhead/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/blockhead</c:Meta>
+    <dc:date>2024-10-30Z</dc:date>
+  </c:Work>
 </c:Works>
