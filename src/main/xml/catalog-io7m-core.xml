@@ -1311,4 +1311,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/blockhead</c:Meta>
     <dc:date>2024-10-30Z</dc:date>
   </c:Work>
+  <c:Work ID="329319c4-411c-4af2-b177-1ddb66a132a7" Name="adelaide">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>adelaide</dc:title>
+    <dc:description>Better ActiveMQ/Artemis OCI images.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.github.com/io7m-com/adelaide</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/adelaide</c:Meta>
+    <dc:date>2025-02-02Z</dc:date>
+  </c:Work>
 </c:Works>
