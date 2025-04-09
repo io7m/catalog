@@ -391,16 +391,6 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/jcamera</c:Meta>
     <dc:date>2014-10-24Z</dc:date>
   </c:Work>
-  <c:Work ID="28b01f8f-be05-33ae-b8da-7f8ae5603cdd" Name="jcathinone">
-    <c:GroupAssignment Name="com.io7m.core"/>
-    <dc:title>jcathinone</dc:title>
-    <dc:description>Apache Artemis message directory spooler.</dc:description>
-    <dc:rights>ISC License</dc:rights>
-    <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://github.com/io7m/jcathinone</c:Meta>
-    <c:Meta Name="scm_source">https://www.github.com/io7m-com/jcathinone</c:Meta>
-    <dc:date>2018-08-17Z</dc:date>
-  </c:Work>
   <c:Work ID="7f3c82a4-a535-3b73-9796-788cca739572" Name="jcip">
     <c:GroupAssignment Name="com.io7m.core"/>
     <dc:title>jcip</dc:title>
@@ -460,16 +450,6 @@
     <c:Meta Name="site">https://github.com/io7m/jdownload</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/jdownload</c:Meta>
     <dc:date>2018-02-13Z</dc:date>
-  </c:Work>
-  <c:Work ID="a9ab8c7a-d44f-306e-b041-2aa848dfa6e4" Name="jequality">
-    <c:GroupAssignment Name="com.io7m.core"/>
-    <dc:title>jequality</dc:title>
-    <dc:description>Equality handling.</dc:description>
-    <dc:rights>ISC License</dc:rights>
-    <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://www.io7m.com/software/jequality/</c:Meta>
-    <c:Meta Name="scm_source">https://www.github.com/io7m-com/jequality</c:Meta>
-    <dc:date>2014-04-16Z</dc:date>
   </c:Work>
   <c:Work ID="9a93e4fb-a5cc-35b7-9540-0abd40280d5c" Name="jeucreader">
     <c:GroupAssignment Name="com.io7m.core"/>
@@ -640,16 +620,6 @@
     <c:Meta Name="site">https://www.io7m.com/software/jptbox/</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/jptbox</c:Meta>
     <dc:date>2016-07-30Z</dc:date>
-  </c:Work>
-  <c:Work ID="f240f15f-9cb8-3402-9e4c-6efadeadb8f5" Name="jpuddle">
-    <c:GroupAssignment Name="com.io7m.core"/>
-    <dc:title>jpuddle</dc:title>
-    <dc:description>Trivial object pooling.</dc:description>
-    <dc:rights>ISC License</dc:rights>
-    <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://www.io7m.com/software/jpuddle/</c:Meta>
-    <c:Meta Name="scm_source">https://www.github.com/io7m-com/jpuddle</c:Meta>
-    <dc:date>2016-02-08Z</dc:date>
   </c:Work>
   <c:Work ID="4b934b05-b296-32bf-b81d-f8cc1bd4929b" Name="jqpage">
     <c:GroupAssignment Name="com.io7m.core"/>
@@ -920,16 +890,6 @@
     <c:Meta Name="site">https://www.io7m.com/software/northpike/</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/northpike.packaging</c:Meta>
     <dc:date>2023-11-10Z</dc:date>
-  </c:Work>
-  <c:Work ID="87463cf0-68a6-3479-9274-ed310b721eef" Name="oxicoco">
-    <c:GroupAssignment Name="com.io7m.core"/>
-    <dc:title>oxicoco</dc:title>
-    <dc:description>Embeddable Java IRC server component.</dc:description>
-    <dc:rights>ISC License</dc:rights>
-    <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://github.com/io7m/oxicoco</c:Meta>
-    <c:Meta Name="scm_source">https://www.github.com/io7m-com/oxicoco</c:Meta>
-    <dc:date>2020-12-29Z</dc:date>
   </c:Work>
   <c:Work ID="fab8d24d-4df3-3e66-8b1f-a65408b47677" Name="pallene">
     <c:GroupAssignment Name="com.io7m.core"/>
