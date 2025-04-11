@@ -1301,4 +1301,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/renderdoc_jffm</c:Meta>
     <dc:date>2024-11-23Z</dc:date>
   </c:Work>
+  <c:Work ID="41cfbbfc-3262-4078-a831-923cf9fd2b60" Name="fsbind">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>fsbind</dc:title>
+    <dc:description>A JSR203 overlay binding filesystem.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/fsbind/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/fsbind</c:Meta>
+    <dc:date>2025-04-11Z</dc:date>
+  </c:Work>
 </c:Works>
