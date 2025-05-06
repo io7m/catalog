@@ -1318,7 +1318,17 @@
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
     <c:Meta Name="site">https://www.io7m.com/software/stonesignal/</c:Meta>
-    <c:Meta Name="scm_source">https://www.github.com/io7m/stonesignal</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/stonesignal</c:Meta>
     <dc:date>2025-04-13Z</dc:date>
+  </c:Work>
+  <c:Work ID="57051553-4617-496b-b6ce-f7f51a1705a3" Name="entomos">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>entomos</dc:title>
+    <dc:description>Sectional binary file format library.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/entomos/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/entomos</c:Meta>
+    <dc:date>2025-05-06Z</dc:date>
   </c:Work>
 </c:Works>
