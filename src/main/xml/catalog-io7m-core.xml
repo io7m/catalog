@@ -327,7 +327,7 @@
     <dc:description>Java library to assist with musical analysis.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://github.com/io7m/jaccord</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/jaccord</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/jaccord</c:Meta>
     <dc:date>2017-09-23Z</dc:date>
   </c:Work>
