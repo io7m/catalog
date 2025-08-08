@@ -498,4 +498,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/oxicoco</c:Meta>
     <dc:date>2020-12-29Z</dc:date>
   </c:Work>
+  <c:Work ID="fab8d24d-4df3-3e66-8b1f-a65408b47677" Name="pallene">
+    <c:GroupAssignment Name="com.io7m.eol"/>
+    <dc:title>pallene</dc:title>
+    <dc:description>An ultra-minimal single-file static web server.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/pallene/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/pallene</c:Meta>
+    <dc:date>2017-11-02Z</dc:date>
+  </c:Work>
 </c:Works>
