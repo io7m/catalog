@@ -447,7 +447,7 @@
     <dc:description>Resumable HTTP downloader library.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://github.com/io7m/jdownload</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/jdownload</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/jdownload</c:Meta>
     <dc:date>2018-02-13Z</dc:date>
   </c:Work>
