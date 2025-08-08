@@ -167,7 +167,7 @@
     <dc:description>Opinionated builds of Apache Artemis for small-scale deployments.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://www.github.com/io7m/chione/</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/chione/</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/chione</c:Meta>
     <dc:date>2023-02-15Z</dc:date>
   </c:Work>
