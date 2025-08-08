@@ -961,16 +961,6 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/seltzer</c:Meta>
     <dc:date>2023-04-23Z</dc:date>
   </c:Work>
-  <c:Work ID="ef23cfd6-a239-31a6-960b-2013d0d7ccb5" Name="servitor">
-    <c:GroupAssignment Name="com.io7m.core"/>
-    <dc:title>servitor</dc:title>
-    <dc:description>Static podman/systemd service generator.</dc:description>
-    <dc:rights>ISC License</dc:rights>
-    <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://www.github.com/io7m/servitor</c:Meta>
-    <c:Meta Name="scm_source">https://www.github.com/io7m-com/servitor</c:Meta>
-    <dc:date>2023-05-27Z</dc:date>
-  </c:Work>
   <c:Work ID="228bdf59-010f-34ee-9a94-897aa93a34c5" Name="sigiltron">
     <c:GroupAssignment Name="com.io7m.core"/>
     <dc:title>sigiltron</dc:title>
