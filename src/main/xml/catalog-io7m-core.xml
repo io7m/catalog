@@ -967,7 +967,7 @@
     <dc:description>Mysterious symbol generator.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://github.com/io7m/sigiltron</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/sigiltron</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/sigiltron</c:Meta>
     <dc:date>2014-07-11Z</dc:date>
   </c:Work>
