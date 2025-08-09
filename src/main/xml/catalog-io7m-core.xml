@@ -287,7 +287,7 @@
     <dc:description>GUI for idstore.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://www.io7m.com/software/idstore/</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/idstore_gui/</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/idstore_gui</c:Meta>
     <dc:date>2023-05-04Z</dc:date>
   </c:Work>
