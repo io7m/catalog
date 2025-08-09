@@ -528,4 +528,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/northpike</c:Meta>
     <dc:date>2023-07-28Z</dc:date>
   </c:Work>
+  <c:Work ID="f2c601cc-f8fa-30a9-84c3-c3ee298a633e" Name="usq">
+    <c:GroupAssignment Name="com.io7m.eol"/>
+    <dc:title>usq</dc:title>
+    <dc:description>Unsupervised persistent queues.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.github.com/io7m/usq/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/usq</c:Meta>
+    <dc:date>2024-04-27Z</dc:date>
+  </c:Work>
 </c:Works>

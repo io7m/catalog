@@ -1051,16 +1051,6 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/trasco</c:Meta>
     <dc:date>2022-02-11Z</dc:date>
   </c:Work>
-  <c:Work ID="f2c601cc-f8fa-30a9-84c3-c3ee298a633e" Name="usq">
-    <c:GroupAssignment Name="com.io7m.core"/>
-    <dc:title>usq</dc:title>
-    <dc:description>Unsupervised persistent queues.</dc:description>
-    <dc:rights>ISC License</dc:rights>
-    <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://www.github.com/io7m/usq/</c:Meta>
-    <c:Meta Name="scm_source">https://www.github.com/io7m-com/usq</c:Meta>
-    <dc:date>2024-04-27Z</dc:date>
-  </c:Work>
   <c:Work ID="cf1ee137-0649-368d-ac77-e9566885457d" Name="verdant">
     <c:GroupAssignment Name="com.io7m.core"/>
     <dc:title>verdant</dc:title>
