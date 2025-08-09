@@ -727,7 +727,7 @@
     <dc:description>OpenGL GUI library.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://github.com/io7m/jsycamore</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/jsycamore</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/jsycamore</c:Meta>
     <dc:date>2012-05-25Z</dc:date>
   </c:Work>
