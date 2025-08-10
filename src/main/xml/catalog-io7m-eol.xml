@@ -225,7 +225,7 @@
     <dc:description>Minimalist, pure functional shading language.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://io7m.github.io/jparasol</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/jparasol</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m/jparasol</c:Meta>
     <dc:date>2013-12-12Z</dc:date>
   </c:Work>
@@ -235,7 +235,7 @@
     <dc:description>OpenGL text renderer.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://io7m.github.io/jpismo</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/jpismo</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m/jpismo</c:Meta>
     <dc:date>2012-04-15Z</dc:date>
   </c:Work>
