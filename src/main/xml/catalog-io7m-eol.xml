@@ -434,7 +434,7 @@
     <dc:description>Shader management and preprocessing system.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://io7m.github.io/sombrero</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/sombrero</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m/sombrero</c:Meta>
     <dc:date>2016-12-09Z</dc:date>
   </c:Work>
