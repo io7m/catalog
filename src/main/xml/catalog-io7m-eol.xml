@@ -115,7 +115,7 @@
     <dc:description>Run-time configurable JVM sandboxing.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://io7m.github.io/jcage</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/jcage</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m/jcage</c:Meta>
     <dc:date>2014-07-17Z</dc:date>
   </c:Work>
@@ -135,7 +135,7 @@
     <dc:description>OpenGL plus static safety.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://io7m.github.io/jcanephora</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/jcanephora</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m/jcanephora</c:Meta>
     <dc:date>2012-03-15Z</dc:date>
   </c:Work>
@@ -145,7 +145,7 @@
     <dc:description>JAXB COLLADA bindings.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://io7m.github.io/jdae</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/jdae</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m/jdae</c:Meta>
     <dc:date>2015-12-14Z</dc:date>
   </c:Work>
@@ -185,7 +185,7 @@
     <dc:description>FreeBSD jail management tools.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://io7m.github.io/jguard</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/jguard</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m/jguard</c:Meta>
     <dc:date>2016-11-03Z</dc:date>
   </c:Work>
@@ -285,7 +285,7 @@
     <dc:description>Java implementation of the structural document language.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://io7m.github.io/jstructural</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/jstructural</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m/jstructural</c:Meta>
     <dc:date>2014-03-22Z</dc:date>
   </c:Work>
@@ -325,7 +325,7 @@
     <dc:description>Kotlin implementation of the structural document language.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://io7m.github.io/kstructural</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/kstructural</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m/kstructural</c:Meta>
     <dc:date>2016-04-25Z</dc:date>
   </c:Work>
