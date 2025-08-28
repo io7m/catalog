@@ -55,4 +55,13 @@
     <c:Meta Name="site">https://www.github.com/ThePalaceProject/android-drm-core</c:Meta>
     <dc:date>2015-09-15Z</dc:date>
   </c:Work>
+  <c:Work ID="1c5e3ed2-fdab-4ff3-ab6d-a268e18f9aa1" Name="palace-webpub">
+    <c:GroupAssignment Name="org.thepalaceproject"/>
+    <dc:title>palace-webpub</dc:title>
+    <dc:description>The Palace WebPub parser.</dc:description>
+    <dc:rights>Apache 2.0 License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.github.com/ThePalaceProject/android-webpub</c:Meta>
+    <dc:date>2025-08-28Z</dc:date>
+  </c:Work>
 </c:Works>
