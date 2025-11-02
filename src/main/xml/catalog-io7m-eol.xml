@@ -539,7 +539,7 @@
     <dc:date>2024-04-27Z</dc:date>
   </c:Work>
   <c:Work ID="2c1f288e-f5a8-4f4d-8ce4-723b27a310fc" Name="northpike.packaging">
-    <c:GroupAssignment Name="com.io7m.core"/>
+    <c:GroupAssignment Name="com.io7m.eol"/>
     <dc:title>northpike.packaging</dc:title>
     <dc:description>Platform-specific packaging for Northpike.</dc:description>
     <dc:rights>ISC License</dc:rights>
