@@ -202,4 +202,13 @@
     <dc:type>3D Model</dc:type>
     <c:Meta Name="scm_source">https://www.github.com/io7m/v-baguette</c:Meta>
   </c:Work>
+  <c:Work ID="c7691868-7c10-45ca-900b-d3f49eca5ad4"
+          Name="com.io7m.construction.guitar.hh_vol_pcb">
+    <c:GroupAssignment Name="com.io7m.art"/>
+    <dc:date>2025-11-15Z</dc:date>
+    <dc:description>A HH+Volume PCB for guitar</dc:description>
+    <dc:rights>Public Domain</dc:rights>
+    <dc:type>PCB</dc:type>
+    <c:Meta Name="scm_source">https://www.github.com/io7m/com.io7m.construction.guitar.hh_vol_pcb</c:Meta>
+  </c:Work>
 </c:Works>
