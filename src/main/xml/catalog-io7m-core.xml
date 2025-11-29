@@ -1237,7 +1237,7 @@
     <dc:description>JSON protocol for HTTP endpoint version announcements.</dc:description>
     <dc:rights>ISC License</dc:rights>
     <dc:type>Software</dc:type>
-    <c:Meta Name="site">https://www.github.com/io7m-com/ventrad</c:Meta>
+    <c:Meta Name="site">https://www.io7m.com/software/ventrad</c:Meta>
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/ventrad</c:Meta>
     <dc:date>2025-03-12Z</dc:date>
   </c:Work>
