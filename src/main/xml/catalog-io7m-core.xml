@@ -1281,4 +1281,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/zugorum</c:Meta>
     <dc:date>2025-05-17Z</dc:date>
   </c:Work>
+  <c:Work ID="fc76591a-ff17-4b42-84df-0bc0123881d4" Name="sumjack">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>sumjack</dc:title>
+    <dc:description>JSON schema generator.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/sumjack/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/sumjack</c:Meta>
+    <dc:date>2025-12-10Z</dc:date>
+  </c:Work>
 </c:Works>
