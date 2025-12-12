@@ -1291,4 +1291,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/sumjack</c:Meta>
     <dc:date>2025-12-10Z</dc:date>
   </c:Work>
+  <c:Work ID="2d5fbcd6-dd56-4a88-8c11-a4e58c45936a" Name="roctetorder">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>roctetorder</dc:title>
+    <dc:description>Octet order theorems.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/roctetorder/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/roctetorder</c:Meta>
+    <dc:date>2025-12-12Z</dc:date>
+  </c:Work>
 </c:Works>
