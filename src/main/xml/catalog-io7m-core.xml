@@ -1301,4 +1301,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/roctetorder</c:Meta>
     <dc:date>2025-12-12Z</dc:date>
   </c:Work>
+  <c:Work ID="de36b494-2c7a-45c0-9ad7-c00ede2e530f" Name="rentomos">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>rentomos</dc:title>
+    <dc:description>Entomos specification .</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/rentomos/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/rentomos</c:Meta>
+    <dc:date>2025-12-13Z</dc:date>
+  </c:Work>
 </c:Works>
