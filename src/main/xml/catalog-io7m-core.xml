@@ -1311,4 +1311,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/rentomos</c:Meta>
     <dc:date>2025-12-13Z</dc:date>
   </c:Work>
+  <c:Work ID="41685723-58ee-4b86-9c91-4edb504159fe" Name="flannel">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>flannel</dc:title>
+    <dc:description>Pure Java FLAC.</dc:description>
+    <dc:rights>LGPL</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/flannel/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/flannel</c:Meta>
+    <dc:date>2025-12-22Z</dc:date>
+  </c:Work>
 </c:Works>
