@@ -1321,4 +1321,14 @@
     <c:Meta Name="scm_source">https://www.github.com/io7m-com/flannel</c:Meta>
     <dc:date>2025-12-22Z</dc:date>
   </c:Work>
+  <c:Work ID="a54681b3-214f-446e-b0e9-71d90c6a104d" Name="aurantedit">
+    <c:GroupAssignment Name="com.io7m.core"/>
+    <dc:title>aurantedit</dc:title>
+    <dc:description>Aurantium sample map editor.</dc:description>
+    <dc:rights>ISC License</dc:rights>
+    <dc:type>Software</dc:type>
+    <c:Meta Name="site">https://www.io7m.com/software/aurantedit/</c:Meta>
+    <c:Meta Name="scm_source">https://www.github.com/io7m-com/aurantedit</c:Meta>
+    <dc:date>2024-08-04Z</dc:date>
+  </c:Work>
 </c:Works>
